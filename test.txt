@@ -1,0 +1,2062 @@
+<!DOCTYPE html>
+<html class="html" dir="rtl" lang="ar">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>sawab.tech</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1"><link rel="alternate" type="application/rss+xml" title="sawab.tech &laquo; الخلاصة" href="https://sawab.tech/feed/" />
+<link rel="alternate" type="application/rss+xml" title="sawab.tech &laquo; خلاصة التعليقات" href="https://sawab.tech/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sawab.tech\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel='stylesheet' id='dashicons-css' href='https://sawab.tech/wp-includes/css/dashicons.min.css?ver=6.8.1' media='all' />
+<link rel='stylesheet' id='admin-bar-rtl-css' href='https://sawab.tech/wp-includes/css/admin-bar-rtl.min.css?ver=6.8.1' media='all' />
+<style id='admin-bar-inline-css'>
+
+		@media screen { html { margin-top: 32px !important; } }
+		@media screen and ( max-width: 782px ) { html { margin-top: 46px !important; } }
+	
+@media print { #wpadminbar { display:none; } }
+</style>
+<link rel='stylesheet' id='elementor-icons-css' href='https://sawab.tech/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.40.0' media='all' />
+<link rel='stylesheet' id='elementor-common-css' href='https://sawab.tech/wp-content/plugins/elementor/assets/css/common-rtl.min.css?ver=3.29.2' media='all' />
+<link rel='stylesheet' id='e-theme-ui-light-css' href='https://sawab.tech/wp-content/plugins/elementor/assets/css/theme-light.min.css?ver=3.29.2' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-rtl-css' href='https://sawab.tech/wp-includes/css/dist/block-library/style-rtl.min.css?ver=6.8.1' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='font-awesome-css' href='https://sawab.tech/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=6.7.2' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css' href='https://sawab.tech/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css' href='https://sawab.tech/wp-content/themes/oceanwp/assets/css/style.min.css?ver=4.1.0' media='all' />
+<style id='oceanwp-style-inline-css'>
+body div.wpforms-container-full .wpforms-form input[type=submit]:hover,
+			body div.wpforms-container-full .wpforms-form input[type=submit]:active,
+			body div.wpforms-container-full .wpforms-form button[type=submit]:hover,
+			body div.wpforms-container-full .wpforms-form button[type=submit]:active,
+			body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,
+			body div.wpforms-container-full .wpforms-form .wpforms-page-button:active,
+			body .wp-core-ui div.wpforms-container-full .wpforms-form input[type=submit]:hover,
+			body .wp-core-ui div.wpforms-container-full .wpforms-form input[type=submit]:active,
+			body .wp-core-ui div.wpforms-container-full .wpforms-form button[type=submit]:hover,
+			body .wp-core-ui div.wpforms-container-full .wpforms-form button[type=submit]:active,
+			body .wp-core-ui div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,
+			body .wp-core-ui div.wpforms-container-full .wpforms-form .wpforms-page-button:active {
+					background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), var(--wpforms-button-background-color-alt, var(--wpforms-button-background-color)) !important;
+			}
+</style>
+<link rel='stylesheet' id='oceanwp-hamburgers-css' href='https://sawab.tech/wp-content/themes/oceanwp/assets/css/third/hamburgers/hamburgers.min.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='oceanwp-spin-r-css' href='https://sawab.tech/wp-content/themes/oceanwp/assets/css/third/hamburgers/types/spin-r.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='oceanwp-google-font-abeezee-css' href='http://sawab.tech/wp-content/uploads/oceanwp-webfonts-css/2fb51055b45aa4b071738b4904220b5f.css?ver=6.8.1' media='all' />
+<link rel='stylesheet' id='oceanwp-google-font-tajawal-css' href='http://sawab.tech/wp-content/uploads/oceanwp-webfonts-css/1c07f7753a4618b7fe84da9a6c38052d.css?ver=6.8.1' media='all' />
+<link rel='stylesheet' id='litespeed-cache-css' href='https://sawab.tech/wp-content/plugins/litespeed-cache/assets/css/litespeed.css?ver=7.2' media='all' />
+<link rel='stylesheet' id='ocean-admin-bar-css' href='https://sawab.tech/wp-content/plugins/ocean-extra/includes/admin-bar/assets/css/admin-bar.css?ver=2.4.9' media='all' />
+<link rel='stylesheet' id='wpforms-admin-bar-css' href='https://sawab.tech/wp-content/plugins/wpforms-lite/assets/css/admin-bar.min.css?ver=1.9.6.1' media='all' />
+<style id='wpforms-admin-bar-inline-css'>
+#wpadminbar .wpforms-menu-notification-counter, #wpadminbar .wpforms-menu-notification-indicator {
+						background-color: #d63638 !important;
+						color: #ffffff !important;
+					}
+</style>
+<link rel='stylesheet' id='oe-widgets-style-css' href='https://sawab.tech/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=6.8.1' media='all' />
+<link rel='stylesheet' id='oe-widgets-style-rtl-css' href='https://sawab.tech/wp-content/plugins/ocean-extra/assets/css/rtl.css?ver=6.8.1' media='all' />
+<script src="https://sawab.tech/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://sawab.tech/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://sawab.tech/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://sawab.tech/wp-json/wp/v2/pages/626" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sawab.tech/xmlrpc.php?rsd" />
+<link rel="stylesheet" href="https://sawab.tech/wp-content/themes/oceanwp/rtl.css" media="screen" /><meta name="generator" content="WordPress 6.8.1" />
+<link rel="canonical" href="https://sawab.tech/" />
+<link rel='shortlink' href='https://sawab.tech/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://sawab.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsawab.tech%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://sawab.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsawab.tech%2F&#038;format=xml" />
+<meta name="generator" content="Elementor 3.29.2; features: e_font_icon_svg, additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-auto">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+					<style id="wp-custom-css">
+			/* Custom hover color to the trainers social icons */.elementor-widget.custom-social .elementor-social-icon:hover{opacity:1;background-color:#0eb290;border-color:#0eb290;color:#fff}/* Margin bottom to the subscribe title */.elementor-widget.subscribe-tilte{margin:0 0 10px}/* Placeholders color*/#searchform-dropdown input::-webkit-input-placeholder,body .sidr-class-mobile-searchform input::-webkit-input-placeholder{color:#81e4cf}#searchform-dropdown input::-moz-placeholder,body .sidr-class-mobile-searchform input::-moz-placeholder{color:#81e4cf}#searchform-dropdown input:-ms-input-placeholder,body .sidr-class-mobile-searchform input:-ms-input-placeholder{color:#81e4cf}/* Scroll up button */#scroll-top{right:0;bottom:0;border-radius:0}#scroll-top,#scroll-top:hover{background-color:transparent}/* Footer */#footer-widgets .footer-box{text-align:center}#footer-widgets .social-widget .style-light li a,#footer-widgets .social-widget .style-dark li a,#footer-widgets .social-widget .style-colored li a{background-color:#263036;color:#708e9f;border-color:#263036;width:40px;height:40px;line-height:40px}#footer-widgets .social-widget .style-light li a:hover,#footer-widgets .social-widget .style-dark li a:hover,#footer-widgets .social-widget .style-colored li a:hover{background-color:#0eb290;color:#fff !important;border-color:#0eb290 !important}/* Responsive */@media (max-width:767px){/* Center the buttons in the hero */.elementor-element.hero-btn{text-align:center !important}/* Center elements on mobile */.elementor-element.center-mobile,.elementor-element.center-mobile .elementor-icon-box-wrapper{text-align:center !important}/* Margin top "Working" title on the contact page */.elementor-element.margin-mobile .elementor-heading-title{margin-top:30px}/* Social icons on the contact page */.elementor-social-icons-wrapper{text-align:left}.elementor-element.contact-social .elementor-social-icon{width:44px;height:44px;line-height:44px}.elementor-element.contact-social .elementor-social-icon:nth-child(4){margin-right:5px !important}}@media (max-width:480px){/* Title size in the hero */.elementor-element.hero-title .elementor-heading-title{font-size:30px}}		</style>
+		<!-- OceanWP CSS -->
+<style type="text/css">
+/* Colors */a:hover,a.light:hover,.theme-heading .text::before,.theme-heading .text::after,#top-bar-content >a:hover,#top-bar-social li.oceanwp-email a:hover,#site-navigation-wrap .dropdown-menu >li >a:hover,#site-header.medium-header #medium-searchform button:hover,.oceanwp-mobile-menu-icon a:hover,.blog-entry.post .blog-entry-header .entry-title a:hover,.blog-entry.post .blog-entry-readmore a:hover,.blog-entry.thumbnail-entry .blog-entry-category a,ul.meta li a:hover,.dropcap,.single nav.post-navigation .nav-links .title,body .related-post-title a:hover,body #wp-calendar caption,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .custom-links-widget .oceanwp-custom-links li a:hover,body .custom-links-widget .oceanwp-custom-links li a:hover:before,body .posts-thumbnails-widget li a:hover,body .social-widget li.oceanwp-email a:hover,.comment-author .comment-meta .comment-reply-link,#respond #cancel-comment-reply-link:hover,#footer-widgets .footer-box a:hover,#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover,.sidr a:hover,.sidr-class-dropdown-toggle:hover,.sidr-class-menu-item-has-children.active >a,.sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,input[type=checkbox]:checked:before{color:#a948ed}.single nav.post-navigation .nav-links .title .owp-icon use,.blog-entry.post .blog-entry-readmore a:hover .owp-icon use,body .contact-info-widget.default .owp-icon use,body .contact-info-widget.big-icons .owp-icon use{stroke:#a948ed}input[type="button"],input[type="reset"],input[type="submit"],button[type="submit"],.button,#site-navigation-wrap .dropdown-menu >li.btn >a >span,.thumbnail:hover i,.thumbnail:hover .link-post-svg-icon,.post-quote-content,.omw-modal .omw-close-modal,body .contact-info-widget.big-icons li:hover i,body .contact-info-widget.big-icons li:hover .owp-icon,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button,.woocommerce-cart .wp-element-button,.woocommerce-checkout .wp-element-button,.wp-block-button__link{background-color:#a948ed}.widget-title{border-color:#a948ed}blockquote{border-color:#a948ed}.wp-block-quote{border-color:#a948ed}#searchform-dropdown{border-color:#a948ed}.dropdown-menu .sub-menu{border-color:#a948ed}.blog-entry.large-entry .blog-entry-readmore a:hover{border-color:#a948ed}.oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#a948ed}.social-widget li.oceanwp-email a:hover{border-color:#a948ed}#respond #cancel-comment-reply-link:hover{border-color:#a948ed}body .contact-info-widget.big-icons li:hover i{border-color:#a948ed}body .contact-info-widget.big-icons li:hover .owp-icon{border-color:#a948ed}#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#a948ed}input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,button[type="submit"]:hover,input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,button[type="submit"]:focus,.button:hover,.button:focus,#site-navigation-wrap .dropdown-menu >li.btn >a:hover >span,.post-quote-author,.omw-modal .omw-close-modal:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,.woocommerce-cart .wp-element-button:hover,.woocommerce-checkout .wp-element-button:hover,.wp-block-button__link:hover{background-color:#6a0dad}table th,table td,hr,.content-area,body.content-left-sidebar #content-wrap .content-area,.content-left-sidebar .content-area,#top-bar-wrap,#site-header,#site-header.top-header #search-toggle,.dropdown-menu ul li,.centered-minimal-page-header,.blog-entry.post,.blog-entry.grid-entry .blog-entry-inner,.blog-entry.thumbnail-entry .blog-entry-bottom,.single-post .entry-title,.single .entry-share-wrap .entry-share,.single .entry-share,.single .entry-share ul li a,.single nav.post-navigation,.single nav.post-navigation .nav-links .nav-previous,#author-bio,#author-bio .author-bio-avatar,#author-bio .author-bio-social li a,#related-posts,#comments,.comment-body,#respond #cancel-comment-reply-link,#blog-entries .type-page,.page-numbers a,.page-numbers span:not(.elementor-screen-only),.page-links span,body #wp-calendar caption,body #wp-calendar th,body #wp-calendar tbody,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .contact-info-widget.big-icons .owp-icon,body .contact-info-widget.default .owp-icon,body .posts-thumbnails-widget li,body .tagcloud a{border-color:#e0e0e0}body,.separate-layout,.has-parallax-footer:not(.separate-layout) #main{background-color:#0a0a0a}a{color:#a948ed}a .owp-icon use{stroke:#a948ed}a:hover{color:#6a0dad}a:hover .owp-icon use{stroke:#6a0dad}body .theme-button,body input[type="submit"],body button[type="submit"],body button,body .button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button,.woocommerce-cart .wp-element-button,.woocommerce-checkout .wp-element-button,.wp-block-button__link{border-color:#ffffff}body .theme-button:hover,body input[type="submit"]:hover,body button[type="submit"]:hover,body button:hover,body .button:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:active,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:active,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:active,.woocommerce-cart .wp-element-button:hover,.woocommerce-checkout .wp-element-button:hover,.wp-block-button__link:hover{border-color:#ffffff}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea,.select2-container .select2-choice,.woocommerce .woocommerce-checkout .select2-container--default .select2-selection--single{border-color:#f6f6f6}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{border-color:#f6f6f6}form input[type="text"]:focus,form input[type="password"]:focus,form input[type="email"]:focus,form input[type="tel"]:focus,form input[type="url"]:focus,form input[type="search"]:focus,form textarea:focus,.select2-drop-active,.select2-dropdown-open.select2-drop-above .select2-choice,.select2-dropdown-open.select2-drop-above .select2-choices,.select2-drop.select2-drop-above.select2-drop-active,.select2-container-active .select2-choice,.select2-container-active .select2-choices{border-color:#e0e0e0}body div.wpforms-container-full .wpforms-form input:focus,body div.wpforms-container-full .wpforms-form textarea:focus,body div.wpforms-container-full .wpforms-form select:focus{border-color:#e0e0e0}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea,.woocommerce .woocommerce-checkout .select2-container--default .select2-selection--single{background-color:#f6f6f6}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{background-color:#f6f6f6}.page-header .page-header-title,.page-header.background-image-page-header .page-header-title{color:#ffffff}.site-breadcrumbs a,.background-image-page-header .site-breadcrumbs a{color:#ffffff}.site-breadcrumbs a .owp-icon use,.background-image-page-header .site-breadcrumbs a .owp-icon use{stroke:#ffffff}.site-breadcrumbs a:hover,.background-image-page-header .site-breadcrumbs a:hover{color:#0eb290}.site-breadcrumbs a:hover .owp-icon use,.background-image-page-header .site-breadcrumbs a:hover .owp-icon use{stroke:#0eb290}h1,h2,h3,h4,h5,h6,.theme-heading,.widget-title,.oceanwp-widget-recent-posts-title,.comment-reply-title,.entry-title,.sidebar-box .widget-title{color:#e0e0e0}h1{color:#ffffff}h2{color:#ffffff}h3{color:#f0f0f0}h4{color:#d0d0d0}h5{color:#b0b0b0}h6{color:#909090}/* OceanWP Style Settings CSS */.container{width:1080px}.theme-button,input[type="submit"],button[type="submit"],button,.button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{border-style:solid}.theme-button,input[type="submit"],button[type="submit"],button,.button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{border-width:1px}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea,.woocommerce .woocommerce-checkout .select2-container--default .select2-selection--single{border-style:solid}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{border-style:solid}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea{border-radius:3px}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{border-radius:3px}#scroll-top{color:#708e9f}#scroll-top .owp-icon use{stroke:#708e9f}#scroll-top:hover{color:#0eb290}#scroll-top:hover .owp-icon use{stroke:#708e9f}.page-header,.has-transparent-header .page-header{padding:100px 0 34px 0}/* Header */#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}#site-header{border-color:rgba(255,255,255,0.3)}#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:55px}#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:94px}.effect-one #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-three #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-five #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-nine #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after{background-color:#ffffff}.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:before,.effect-four #site-navigation-wrap .dropdown-menu >li >a.menu-link >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfHover >a.menu-link >span:after{color:#ffffff}.effect-seven #site-navigation-wrap .dropdown-menu >li >a.menu-link:hover >span:after,.effect-seven #site-navigation-wrap .dropdown-menu >li.sfHover >a.menu-link >span:after{text-shadow:10px 0 #ffffff,-10px 0 #ffffff}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,#searchform-header-replace-close{color:#ffffff}#site-navigation-wrap .dropdown-menu >li >a .owp-icon use,.oceanwp-mobile-menu-icon a .owp-icon use,#searchform-header-replace-close .owp-icon use{stroke:#ffffff}#site-navigation-wrap .dropdown-menu >li >a:hover,.oceanwp-mobile-menu-icon a:hover,#searchform-header-replace-close:hover{color:#8224e3}#site-navigation-wrap .dropdown-menu >li >a:hover .owp-icon use,.oceanwp-mobile-menu-icon a:hover .owp-icon use,#searchform-header-replace-close:hover .owp-icon use{stroke:#8224e3}.dropdown-menu .sub-menu{min-width:130px}.mobile-menu .hamburger-inner,.mobile-menu .hamburger-inner::before,.mobile-menu .hamburger-inner::after{background-color:#000000}a.sidr-class-toggle-sidr-close{background-color:#0a997b}#sidr,#mobile-dropdown{background-color:#0eb290}#sidr li,#sidr ul,#mobile-dropdown ul li,#mobile-dropdown ul li ul{border-color:#0a997b}body .sidr a,body .sidr-class-dropdown-toggle,#mobile-dropdown ul li a,#mobile-dropdown ul li a .dropdown-toggle,#mobile-fullscreen ul li a,#mobile-fullscreen .oceanwp-social-menu.simple-social ul li a{color:#ffffff}#mobile-fullscreen a.close .close-icon-inner,#mobile-fullscreen a.close .close-icon-inner::after{background-color:#ffffff}body .sidr a:hover,body .sidr-class-dropdown-toggle:hover,body .sidr-class-dropdown-toggle .fa,body .sidr-class-menu-item-has-children.active >a,body .sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,#mobile-dropdown ul li a:hover,#mobile-dropdown ul li a .dropdown-toggle:hover,#mobile-dropdown .menu-item-has-children.active >a,#mobile-dropdown .menu-item-has-children.active >a >.dropdown-toggle,#mobile-fullscreen ul li a:hover,#mobile-fullscreen .oceanwp-social-menu.simple-social ul li a:hover{color:#8224e3}#mobile-fullscreen a.close:hover .close-icon-inner,#mobile-fullscreen a.close:hover .close-icon-inner::after{background-color:#8224e3}.sidr-class-dropdown-menu ul,#mobile-dropdown ul li ul,#mobile-fullscreen ul ul.sub-menu{background-color:#81d742}body .sidr-class-mobile-searchform input,#mobile-dropdown #mobile-menu-search form input{background-color:#030404}body .sidr-class-mobile-searchform input,body .sidr-class-mobile-searchform input:focus,#mobile-dropdown #mobile-menu-search form input,#mobile-fullscreen #mobile-search input,#mobile-fullscreen #mobile-search .search-text{color:#ffffff}body .sidr-class-mobile-searchform input,#mobile-dropdown #mobile-menu-search form input,#mobile-fullscreen #mobile-search input{border-color:#1e73be}body .sidr-class-mobile-searchform input:focus,#mobile-dropdown #mobile-menu-search form input:focus,#mobile-fullscreen #mobile-search input:focus{border-color:#dd9933}.sidr-class-mobile-searchform button,#mobile-dropdown #mobile-menu-search form button{color:#7cb2a7}.sidr-class-mobile-searchform button .owp-icon use,#mobile-dropdown #mobile-menu-search form button .owp-icon use{stroke:#7cb2a7}.sidr-class-mobile-searchform button:hover,#mobile-dropdown #mobile-menu-search form button:hover{color:#ffffff}.sidr-class-mobile-searchform button:hover .owp-icon use,#mobile-dropdown #mobile-menu-search form button:hover .owp-icon use{stroke:#ffffff}/* Blog CSS */.single-post-header-wrap,.single-header-ocean-6 .blog-post-title,.single-header-ocean-7 .blog-post-title{background-color:rgba(219,128,67,0.99)}.single-post.content-max-width #wrap .thumbnail,.single-post.content-max-width #wrap .wp-block-buttons,.single-post.content-max-width #wrap .wp-block-verse,.single-post.content-max-width #wrap .entry-header,.single-post.content-max-width #wrap ul.meta,.single-post.content-max-width #wrap .entry-content p,.single-post.content-max-width #wrap .entry-content h1,.single-post.content-max-width #wrap .entry-content h2,.single-post.content-max-width #wrap .entry-content h3,.single-post.content-max-width #wrap .entry-content h4,.single-post.content-max-width #wrap .entry-content h5,.single-post.content-max-width #wrap .entry-content h6,.single-post.content-max-width #wrap .wp-block-image,.single-post.content-max-width #wrap .wp-block-gallery,.single-post.content-max-width #wrap .wp-block-video,.single-post.content-max-width #wrap .wp-block-quote,.single-post.content-max-width #wrap .wp-block-text-columns,.single-post.content-max-width #wrap .wp-block-code,.single-post.content-max-width #wrap .entry-content ul,.single-post.content-max-width #wrap .entry-content ol,.single-post.content-max-width #wrap .wp-block-cover-text,.single-post.content-max-width #wrap .wp-block-cover,.single-post.content-max-width #wrap .wp-block-columns,.single-post.content-max-width #wrap .post-tags,.single-post.content-max-width #wrap .comments-area,.single-post.content-max-width #wrap .wp-block-embed,#wrap .wp-block-separator.is-style-wide:not(.size-full){max-width:900px}.single-post.content-max-width #wrap .wp-block-image.alignleft,.single-post.content-max-width #wrap .wp-block-image.alignright{max-width:450px}.single-post.content-max-width #wrap .wp-block-image.alignleft{margin-left:calc( 50% - 450px)}.single-post.content-max-width #wrap .wp-block-image.alignright{margin-right:calc( 50% - 450px)}.single-post.content-max-width #wrap .wp-block-embed,.single-post.content-max-width #wrap .wp-block-verse{margin-left:auto;margin-right:auto}.ocean-single-post-header ul.meta-item li a:hover{color:#333333}/* Footer Widgets */#footer-widgets{background-color:#2e3b42}#footer-widgets .footer-box a,#footer-widgets a{color:#708e9f}#footer-widgets .footer-box a:hover,#footer-widgets a:hover{color:#0eb290}/* Footer Copyright */#footer-bottom{background-color:#263036}#footer-bottom,#footer-bottom p{color:#9daae0}#footer-bottom a,#footer-bottom #footer-bottom-menu a{color:#708e9f}.page-header{background-color:#2e3b42}/* Typography */body{font-family:ABeeZee;font-size:15px;line-height:1.8;letter-spacing:.4px}h1,h2,h3,h4,h5,h6,.theme-heading,.widget-title,.oceanwp-widget-recent-posts-title,.comment-reply-title,.entry-title,.sidebar-box .widget-title{line-height:1.4}h1{font-size:23px;line-height:1.4}h2{font-size:20px;line-height:1.4}h3{font-size:18px;line-height:1.4}h4{font-size:17px;line-height:1.4}h5{font-size:14px;line-height:1.4}h6{font-size:15px;line-height:1.4}.page-header .page-header-title,.page-header.background-image-page-header .page-header-title{font-size:32px;line-height:1.4}.page-header .page-subheading{font-size:15px;line-height:1.8}.site-breadcrumbs,.site-breadcrumbs a{font-size:13px;line-height:1.4}#top-bar-content,#top-bar-social-alt{font-size:12px;line-height:1.8}#site-logo a.site-logo-text{font-size:24px;line-height:1.8}#site-navigation-wrap .dropdown-menu >li >a,#site-header.full_screen-header .fs-dropdown-menu >li >a,#site-header.top-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.center-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a{font-family:Tajawal;font-size:15px}.dropdown-menu ul li a.menu-link,#site-header.full_screen-header .fs-dropdown-menu ul.sub-menu li a{font-size:12px;line-height:2;letter-spacing:.6px;text-transform:uppercase}.sidr-class-dropdown-menu li a,a.sidr-class-toggle-sidr-close,#mobile-dropdown ul li a,body #mobile-fullscreen ul li a{font-family:Tajawal;font-size:15px;line-height:1.8}.blog-entry.post .blog-entry-header .entry-title a{font-size:24px;line-height:1.4}.ocean-single-post-header .single-post-title{font-size:34px;line-height:1.4;letter-spacing:.6px}.ocean-single-post-header ul.meta-item li,.ocean-single-post-header ul.meta-item li a{font-size:13px;line-height:1.4;letter-spacing:.6px}.ocean-single-post-header .post-author-name,.ocean-single-post-header .post-author-name a{font-size:14px;line-height:1.4;letter-spacing:.6px}.ocean-single-post-header .post-author-description{font-size:12px;line-height:1.4;letter-spacing:.6px}.single-post .entry-title{line-height:1.4;letter-spacing:.6px}.single-post ul.meta li,.single-post ul.meta li a{font-size:14px;line-height:1.4;letter-spacing:.6px}.sidebar-box .widget-title,.sidebar-box.widget_block .wp-block-heading{font-size:13px;line-height:1;letter-spacing:1px}#footer-widgets .footer-box .widget-title{font-size:13px;line-height:1;letter-spacing:1px}#footer-bottom #copyright{font-size:11px;line-height:1;letter-spacing:1px;font-weight:600;text-transform:uppercase}#footer-bottom #footer-bottom-menu{font-size:12px;line-height:1}.woocommerce-store-notice.demo_store{line-height:2;letter-spacing:1.5px}.demo_store .woocommerce-store-notice__dismiss-link{line-height:2;letter-spacing:1.5px}.woocommerce ul.products li.product li.title h2,.woocommerce ul.products li.product li.title a{font-size:14px;line-height:1.5}.woocommerce ul.products li.product li.category,.woocommerce ul.products li.product li.category a{font-size:12px;line-height:1}.woocommerce ul.products li.product .price{font-size:18px;line-height:1}.woocommerce ul.products li.product .button,.woocommerce ul.products li.product .product-inner .added_to_cart{font-size:12px;line-height:1.5;letter-spacing:1px}.woocommerce ul.products li.owp-woo-cond-notice span,.woocommerce ul.products li.owp-woo-cond-notice a{font-size:16px;line-height:1;letter-spacing:1px;font-weight:600;text-transform:capitalize}.woocommerce div.product .product_title{font-size:24px;line-height:1.4;letter-spacing:.6px}.woocommerce div.product p.price{font-size:36px;line-height:1}.woocommerce .owp-btn-normal .summary form button.button,.woocommerce .owp-btn-big .summary form button.button,.woocommerce .owp-btn-very-big .summary form button.button{font-size:12px;line-height:1.5;letter-spacing:1px;text-transform:uppercase}.woocommerce div.owp-woo-single-cond-notice span,.woocommerce div.owp-woo-single-cond-notice a{font-size:18px;line-height:2;letter-spacing:1.5px;font-weight:600;text-transform:capitalize}.ocean-preloader--active .preloader-after-content{font-size:20px;line-height:1.8;letter-spacing:.6px}
+</style></head>
+
+<body class="rtl home wp-singular page-template-default page page-id-626 logged-in admin-bar no-customize-support wp-custom-logo wp-embed-responsive wp-theme-oceanwp oceanwp-theme dropdown-mobile has-transparent-header default-breakpoint content-full-width content-max-width has-breadcrumbs elementor-default elementor-kit-" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	<script>
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	
+</script>
+		<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="شريط الأدوات">
+				<ul role='menu' id='wp-admin-bar-root-default' class="ab-top-menu"><li role='group' id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://sawab.tech/wp-admin/'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">نبذة عن ووردبريس</span></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='نبذة عن ووردبريس' id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li role='group' id='wp-admin-bar-about'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/about.php'>نبذة عن ووردبريس</a></li><li role='group' id='wp-admin-bar-contribute'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/contribute.php'>شارك بالمساهمة معنا</a></li></ul><ul role='menu' aria-label='نبذة عن ووردبريس' id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li role='group' id='wp-admin-bar-wporg'><a class='ab-item' role="menuitem" href='https://ar.wordpress.org/'>WordPress.org</a></li><li role='group' id='wp-admin-bar-documentation'><a class='ab-item' role="menuitem" href='https://wordpress.org/documentation/'>وثائق المساعدة</a></li><li role='group' id='wp-admin-bar-learn'><a class='ab-item' role="menuitem" href='https://learn.wordpress.org/'>Learn WordPress</a></li><li role='group' id='wp-admin-bar-support-forums'><a class='ab-item' role="menuitem" href='https://ar.wordpress.org/support/forums/'>الدعم</a></li><li role='group' id='wp-admin-bar-feedback'><a class='ab-item' role="menuitem" href='https://wordpress.org/support/forum/requests-and-feedback'>طلبات واقتراحات</a></li></ul></div></li><li role='group' id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://sawab.tech/wp-admin/'>sawab.tech</a><div class="ab-sub-wrapper"><ul role='menu' aria-label='sawab.tech' id='wp-admin-bar-site-name-default' class="ab-submenu"><li role='group' id='wp-admin-bar-dashboard'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/'>الرئيسية</a></li><li role='group' id='wp-admin-bar-plugins'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/plugins.php'>إضافات</a></li></ul><ul role='menu' aria-label='sawab.tech' id='wp-admin-bar-appearance' class="ab-submenu"><li role='group' id='wp-admin-bar-themes'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/themes.php'>قوالب</a></li><li role='group' id='wp-admin-bar-widgets'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/widgets.php'>ودجات</a></li><li role='group' id='wp-admin-bar-menus'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/nav-menus.php'>قوائم</a></li><li role='group' id='wp-admin-bar-header' class="hide-if-customize"><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/themes.php?page=custom-header'>الترويسة</a></li></ul></div></li><li role='group' id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/customize.php?url=https%3A%2F%2Fsawab.tech%2F'>تخصيص</a></li><li role='group' id='wp-admin-bar-updates'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">1</span><span class="screen-reader-text updates-available-text">تحديث واحد (1) متوفر</span></a></li><li role='group' id='wp-admin-bar-comments'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">لا تعليق بانتظار الموافقة</span></a></li><li role='group' id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://sawab.tech/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">جديد</span></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='جديد' id='wp-admin-bar-new-content-default' class="ab-submenu"><li role='group' id='wp-admin-bar-new-post'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/post-new.php'>مقالة</a></li><li role='group' id='wp-admin-bar-new-media'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/media-new.php'>ملف وسائط</a></li><li role='group' id='wp-admin-bar-new-page'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/post-new.php?post_type=page'>صفحة</a></li><li role='group' id='wp-admin-bar-new-e-floating-buttons'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/edit.php?action=elementor_new_post&#038;post_type=e-floating-buttons&#038;template_type=floating-buttons&#038;_wpnonce=6aece855bb#library'>Floating Element</a></li><li role='group' id='wp-admin-bar-new-elementor_library'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/post-new.php?post_type=elementor_library'>النموذج</a></li><li role='group' id='wp-admin-bar-new-user'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/user-new.php'>عضو</a></li><li role='group' id='wp-admin-bar-wpforms'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-builder'>WPForms</a></li></ul></div></li><li role='group' id='wp-admin-bar-edit'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/post.php?post=626&#038;action=edit'>تحرير الصفحة</a></li><li role='group' id='wp-admin-bar-litespeed-menu' class="menupop litespeed-top-toolbar"><a class='ab-item' tabindex="0" role="menuitem" aria-expanded="false" href='https://sawab.tech/wp-admin/admin.php?page=litespeed'><span class="ab-icon"></span></a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-litespeed-menu-default' class="ab-submenu"><li role='group' id='wp-admin-bar-litespeed-purge-single'><a class='ab-item' tabindex="0" role="menuitem" href='https://sawab.tech/wp-admin/admin.php?LSCWP_CTRL=purge&#038;LSCWP_NONCE=b5ff7883d8&#038;litespeed_type=purge_front'>Purge this page - LSCache</a></li><li role='group' id='wp-admin-bar-litespeed-single-action' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" role="menuitem" aria-expanded="false"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Mark this page as </div><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-litespeed-single-action-default' class="ab-submenu"><li role='group' id='wp-admin-bar-litespeed-single-forced_cache'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?LSCWP_CTRL=conf&#038;LSCWP_NONCE=6641abb6e0&#038;litespeed_type=set&#038;set%5Bcache-force_uri%5D%5B%5D=%2F%24&#038;redirect=%2F'>Forced cacheable</a></li><li role='group' id='wp-admin-bar-litespeed-single-noncache'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?LSCWP_CTRL=conf&#038;LSCWP_NONCE=6641abb6e0&#038;litespeed_type=set&#038;set%5Bcache-exc%5D%5B%5D=%2F%24&#038;redirect=%2F'>Non cacheable</a></li><li role='group' id='wp-admin-bar-litespeed-single-private'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?LSCWP_CTRL=conf&#038;LSCWP_NONCE=6641abb6e0&#038;litespeed_type=set&#038;set%5Bcache-priv_uri%5D%5B%5D=%2F%24&#038;redirect=%2F'>Private cache</a></li><li role='group' id='wp-admin-bar-litespeed-single-nonoptimize'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?LSCWP_CTRL=conf&#038;LSCWP_NONCE=6641abb6e0&#038;litespeed_type=set&#038;set%5Boptm-exc%5D%5B%5D=%2F%24&#038;redirect=%2F'>No optimization</a></li><li role='group' id='wp-admin-bar-litespeed-single-more'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=litespeed-cache'>More settings</a></li></ul></div></li><li role='group' id='wp-admin-bar-litespeed-purge-all'><a class='ab-item' tabindex="0" role="menuitem" href='https://sawab.tech/wp-admin/admin.php?LSCWP_CTRL=purge&#038;LSCWP_NONCE=b5ff7883d8&#038;litespeed_type=purge_all&#038;_litespeed_ori=1'>Purge All</a></li><li role='group' id='wp-admin-bar-litespeed-purge-all-lscache'><a class='ab-item' tabindex="0" role="menuitem" href='https://sawab.tech/wp-admin/admin.php?LSCWP_CTRL=purge&#038;LSCWP_NONCE=b5ff7883d8&#038;litespeed_type=purge_all_lscache&#038;_litespeed_ori=1'>Purge All - LSCache</a></li><li role='group' id='wp-admin-bar-litespeed-purge-cssjs'><a class='ab-item' tabindex="0" role="menuitem" href='https://sawab.tech/wp-admin/admin.php?LSCWP_CTRL=purge&#038;LSCWP_NONCE=b5ff7883d8&#038;litespeed_type=purge_all_cssjs&#038;_litespeed_ori=1'>Purge All - CSS/JS Cache</a></li><li role='group' id='wp-admin-bar-litespeed-purge-object'><a class='ab-item' tabindex="0" role="menuitem" href='https://sawab.tech/wp-admin/admin.php?LSCWP_CTRL=purge&#038;LSCWP_NONCE=b5ff7883d8&#038;litespeed_type=purge_all_object&#038;_litespeed_ori=1'>Purge All - Object Cache</a></li><li role='group' id='wp-admin-bar-litespeed-purge-opcache'><a class='ab-item' tabindex="0" role="menuitem" href='https://sawab.tech/wp-admin/admin.php?LSCWP_CTRL=purge&#038;LSCWP_NONCE=b5ff7883d8&#038;litespeed_type=purge_all_opcache&#038;_litespeed_ori=1'>Purge All - Opcode Cache</a></li></ul></div></li><li role='group' id='wp-admin-bar-hostinger_admin_bar' class="menupop"><div class="ab-item ab-empty-item" role="menuitem" aria-expanded="false"><svg width="28" height="29" viewBox="0 0 28 29" fill="#9ca1a7" style="margin-right: 6px; max-height: 22px; float: left; margin-top: 4px;" xmlns="http://www.w3.org/2000/svg">
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M1.8669 13.6096V0.500465L8.48322 4.02842V9.93472L17.2419 9.93895L23.9655 13.6096H1.8669ZM19.033 8.85388V0.5L25.8277 3.94018V12.801L19.033 8.85388ZM19.033 24.8765V19.0211L10.2067 19.015C10.215 19.054 3.37149 15.2857 3.37149 15.2857L25.8277 15.3911V28.5L19.033 24.8765ZM1.86667 24.8765L1.8669 16.31L8.48322 20.1637V28.3164L1.86667 24.8765Z" fill="" />
+			</svg>هوستنجر</div><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-hostinger_admin_bar-default' class="ab-submenu"><li role='group' id='wp-admin-bar-hostinger-ai-assistant-ai-content-creator'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=hostinger-ai-assistant'>منشئ المحتوى بالـAI</a></li></ul></div></li><li role='group' id='wp-admin-bar-ocean-menu' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://sawab.tech/wp-admin/admin.php?page=oceanwp'>OceanWP</a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-ocean-menu-default' class="ab-submenu"><li role='group' id='wp-admin-bar-ocean-customizer'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=oceanwp#customizer'>Panel</a></li><li role='group' id='wp-admin-bar-ocean-system-info'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=oceanwp#system-info'>System Info</a></li><li role='group' id='wp-admin-bar-ocean-community'><a class='ab-item' role="menuitem" href='https://www.facebook.com/groups/oceanwptheme/' target='_blank'>Community</a></li><li role='group' id='wp-admin-bar-ocean-documentation'><a class='ab-item' role="menuitem" href='https://docs.oceanwp.org/' target='_blank'>Documentation</a></li></ul></div></li><li role='group' id='wp-admin-bar-wpforms-menu' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-overview'>WPForms</a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpforms-menu-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpforms-forms'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-overview'>All Forms</a></li><li role='group' id='wp-admin-bar-wpforms-add-new'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-builder'>Add New Form</a></li><li role='group' id='wp-admin-bar-wpforms-payments'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-payments'>Payments</a></li><li role='group' id='wp-admin-bar-wpforms-settings' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-settings'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Settings</a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpforms-settings-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpforms-general-settings'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-settings&#038;view=general'>General</a></li><li role='group' id='wp-admin-bar-wpforms-email-settings'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-settings&#038;view=email'>Email</a></li><li role='group' id='wp-admin-bar-wpforms-captcha-settings'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-settings&#038;view=captcha'>CAPTCHA</a></li><li role='group' id='wp-admin-bar-wpforms-validation-settings'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-settings&#038;view=validation'>Validation</a></li><li role='group' id='wp-admin-bar-wpforms-payments-settings'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-settings&#038;view=payments'>Payments</a></li><li role='group' id='wp-admin-bar-wpforms-integrations-settings'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-settings&#038;view=integrations'>Integrations</a></li><li role='group' id='wp-admin-bar-wpforms-geolocation-settings'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-settings&#038;view=geolocation'>Geolocation</a></li><li role='group' id='wp-admin-bar-wpforms-access-settings'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-settings&#038;view=access'>Access Control</a></li><li role='group' id='wp-admin-bar-wpforms-misc-settings'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-settings&#038;view=misc'>Misc</a></li></ul></div></li><li role='group' id='wp-admin-bar-wpforms-tools' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-tools'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Tools</a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpforms-tools-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpforms-tools-import'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-tools&#038;view=import'>Import</a></li><li role='group' id='wp-admin-bar-wpforms-tools-export'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-tools&#038;view=export'>Export</a></li><li role='group' id='wp-admin-bar-wpforms-tools-entry-automation'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-tools&#038;view=entry-automation'>Entry Automation</a></li><li role='group' id='wp-admin-bar-wpforms-tools-system'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-tools&#038;view=system'>System Info</a></li><li role='group' id='wp-admin-bar-wpforms-tools-action-scheduler' class="menupop"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-tools&#038;view=action-scheduler&#038;s=wpforms'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Scheduled Actions</a><div class="ab-sub-wrapper"><ul role='menu' id='wp-admin-bar-wpforms-tools-action-scheduler-default' class="ab-submenu"><li role='group' id='wp-admin-bar-wpforms-tools-action-scheduler-all'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-tools&#038;view=action-scheduler&#038;s=wpforms&#038;orderby=hook&#038;order=desc'>View All</a></li><li role='group' id='wp-admin-bar-wpforms-tools-action-scheduler-complete'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-tools&#038;view=action-scheduler&#038;s=wpforms&#038;status=complete&#038;orderby=hook&#038;order=desc'>Completed Actions</a></li><li role='group' id='wp-admin-bar-wpforms-tools-action-scheduler-failed'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-tools&#038;view=action-scheduler&#038;s=wpforms&#038;status=failed&#038;orderby=hook&#038;order=desc'>Failed Actions</a></li><li role='group' id='wp-admin-bar-wpforms-tools-action-scheduler-pending'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-tools&#038;view=action-scheduler&#038;s=wpforms&#038;status=pending&#038;orderby=hook&#038;order=desc'>Pending Actions</a></li><li role='group' id='wp-admin-bar-wpforms-tools-action-scheduler-past-due'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-tools&#038;view=action-scheduler&#038;s=wpforms&#038;status=past-due&#038;orderby=hook&#038;order=desc'>Past Due Actions</a></li></ul></div></li><li role='group' id='wp-admin-bar-wpforms-tools-logs'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-tools&#038;view=logs'>Logs</a></li><li role='group' id='wp-admin-bar-wpforms-tools-wpcode'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/admin.php?page=wpforms-tools&#038;view=wpcode'>Code Snippets</a></li></ul></div></li><li role='group' id='wp-admin-bar-wpforms-community'><a class='ab-item' role="menuitem" href='https://www.facebook.com/groups/wpformsvip/' target='_blank' rel='noopener noreferrer'>Community</a></li><li role='group' id='wp-admin-bar-wpforms-help-docs'><a class='ab-item' role="menuitem" href='https://wpforms.com/docs/?utm_campaign=liteplugin&#038;utm_medium=admin-bar&#038;utm_source=WordPress&#038;utm_content=Documentation' target='_blank' rel='noopener noreferrer'>Help Docs</a></li><li role='group' id='wp-admin-bar-wpforms-upgrade'><a class='ab-item' role="menuitem" href='https://wpforms.com/lite-upgrade/?utm_campaign=liteplugin&#038;utm_source=WordPress&#038;utm_medium=admin-bar&#038;utm_content=Upgrade%20to%20Pro&#038;utm_locale=ar' target='_blank' rel='noopener noreferrer'>Upgrade to Pro</a></li></ul></div></li><li role='group' id='wp-admin-bar-edit_home_page'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/post.php?post=626&#038;action=edit'>تحرير الصفحة الرئيسية</a></li></ul><ul role='menu' id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li role='group' id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' role="menuitem" aria-expanded="false" href='https://sawab.tech/wp-admin/profile.php'>مرحبًا، <span class="display-name">mandubmarket@gmail.com</span><img alt='' src='https://secure.gravatar.com/avatar/d7879a73fee6ff067b483c6e60b594fd75e9ba86060b3fb53cb24ec77d1678dd?s=26&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d7879a73fee6ff067b483c6e60b594fd75e9ba86060b3fb53cb24ec77d1678dd?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' decoding='async'/></a><div class="ab-sub-wrapper"><ul role='menu' aria-label='مرحبًا، mandubmarket@gmail.com' id='wp-admin-bar-user-actions' class="ab-submenu"><li role='group' id='wp-admin-bar-user-info'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-admin/profile.php'><img alt='' src='https://secure.gravatar.com/avatar/d7879a73fee6ff067b483c6e60b594fd75e9ba86060b3fb53cb24ec77d1678dd?s=64&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d7879a73fee6ff067b483c6e60b594fd75e9ba86060b3fb53cb24ec77d1678dd?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' decoding='async'/><span class='display-name'>mandubmarket@gmail.com</span><span class='display-name edit-profile'>تحرير الملف الشخصي</span></a></li><li role='group' id='wp-admin-bar-logout'><a class='ab-item' role="menuitem" href='https://sawab.tech/wp-login.php?action=logout&#038;_wpnonce=5471e5f6c4'>تسجيل الخروج</a></li></ul></div></li><li role='group' id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1" role="menuitem"><form action="https://sawab.tech/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">البحث</label><input type="submit" class="adminbar-button" value="البحث" /></form></div></li></ul>			</div>
+		</div>
+
+		
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+				<div id="transparent-header-wrap" class="clr">
+	
+<header id="site-header" class="transparent-header search-overlay has-social effect-one clr" data-height="74" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+
+	
+					
+			<div id="site-header-inner" class="clr container">
+
+				
+				
+
+<div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
+
+	
+	<div id="site-logo-inner" class="clr">
+
+		<a href="https://sawab.tech/" class="custom-logo-link" rel="home" aria-current="page"><img fetchpriority="high" width="720" height="882" src="https://sawab.tech/wp-content/uploads/2025/06/cropped-Dynamic-Wordmark-Logo-for-Sawab-Tech2-1.png" class="custom-logo" alt="sawab.tech" decoding="async" srcset="https://sawab.tech/wp-content/uploads/2025/06/cropped-Dynamic-Wordmark-Logo-for-Sawab-Tech2-1.png 1x, http://sawab.tech/wp-content/uploads/2025/06/cropped-Dynamic-Wordmark-Logo-for-Sawab-Tech2.png 2x" sizes="(max-width: 720px) 100vw, 720px" /></a>
+	</div><!-- #site-logo-inner -->
+
+	
+	
+</div><!-- #site-logo -->
+
+
+<div class="oceanwp-social-menu clr social-with-style">
+
+	<div class="social-menu-inner clr colored">
+
+		
+			<ul aria-label="Social links">
+
+				<li class="oceanwp-twitter"><a href="#" aria-label="X" target="_self" ><i class=" fa-brands fa-x-twitter" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-facebook"><a href="#" aria-label="Facebook" target="_self" ><i class=" fab fa-facebook" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-youtube"><a href="#" aria-label="Youtube" target="_self" ><i class=" fab fa-youtube" aria-hidden="true" role="img"></i></a></li>
+			</ul>
+
+		
+	</div>
+
+</div>
+			<div id="site-navigation-wrap" class="clr">
+			
+			
+			
+			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation" >
+
+				<ul id="menu-main-menu" class="main-menu dropdown-menu sf-menu"><li id="menu-item-593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-593"><a href="https://sawab.tech/home/" class="menu-link"><span class="text-wrap">Home</span></a></li><li id="menu-item-594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-594"><a href="https://sawab.tech/about-us/" class="menu-link"><span class="text-wrap">About</span></a></li><li id="menu-item-596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-596"><a href="https://sawab.tech/membership/" class="menu-link"><span class="text-wrap">Membership</span></a></li><li id="menu-item-598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598"><a href="https://sawab.tech/trainers/" class="menu-link"><span class="text-wrap">Trainers</span></a></li><li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-597"><a href="https://sawab.tech/news/" class="menu-link"><span class="text-wrap">News</span></a></li><li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://sawab.tech/contact-us/" class="menu-link"><span class="text-wrap">Contact</span></a></li><li class="search-toggle-li" ><a href="https://sawab.tech/#" class="site-search-toggle search-overlay-toggle"><span class="screen-reader-text">Toggle website search</span><i class=" fas fa-search" aria-hidden="true" role="img"></i></a></li></ul>
+			</nav><!-- #site-navigation -->
+
+			
+			
+					</div><!-- #site-navigation-wrap -->
+			
+		
+	
+				
+	
+	<div class="oceanwp-mobile-menu-icon clr mobile-right">
+
+		
+		
+		
+		<a href="https://sawab.tech/#mobile-menu-toggle" class="mobile-menu"  aria-label="Mobile Menu">
+							<div class="hamburger hamburger--spin-r" aria-expanded="false" role="navigation">
+					<div class="hamburger-box">
+						<div class="hamburger-inner"></div>
+					</div>
+				</div>
+								<span class="oceanwp-text">Menu</span>
+				<span class="oceanwp-close-text">Close</span>
+						</a>
+
+		
+		
+		
+	</div><!-- #oceanwp-mobile-menu-navbar -->
+
+	
+
+			</div><!-- #site-header-inner -->
+
+			
+<div id="mobile-dropdown" class="clr" >
+
+	<nav class="clr has-social" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+
+		<ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-593"><a href="https://sawab.tech/home/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-594"><a href="https://sawab.tech/about-us/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-596"><a href="https://sawab.tech/membership/">Membership</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598"><a href="https://sawab.tech/trainers/">Trainers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-597"><a href="https://sawab.tech/news/">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://sawab.tech/contact-us/">Contact</a></li>
+<li class="search-toggle-li" ><a href="https://sawab.tech/#" class="site-search-toggle search-overlay-toggle"><span class="screen-reader-text">Toggle website search</span><i class=" fas fa-search" aria-hidden="true" role="img"></i></a></li></ul>
+<div class="oceanwp-social-menu clr social-with-style">
+
+	<div class="social-menu-inner clr colored">
+
+		
+			<ul aria-label="Social links">
+
+				<li class="oceanwp-twitter"><a href="#" aria-label="X" target="_self" ><i class=" fa-brands fa-x-twitter" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-facebook"><a href="#" aria-label="Facebook" target="_self" ><i class=" fab fa-facebook" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-youtube"><a href="#" aria-label="Youtube" target="_self" ><i class=" fab fa-youtube" aria-hidden="true" role="img"></i></a></li>
+			</ul>
+
+		
+	</div>
+
+</div>
+
+<div id="mobile-menu-search" class="clr">
+	<form aria-label="Search this website" method="get" action="https://sawab.tech/" class="mobile-searchform">
+		<input aria-label="Insert search query" value="" class="field" id="ocean-mobile-search-1" type="search" name="s" autocomplete="off" placeholder="Search" />
+		<button aria-label="Submit search" type="submit" class="searchform-submit">
+			<i class=" fas fa-search" aria-hidden="true" role="img"></i>		</button>
+					</form>
+</div><!-- .mobile-menu-search -->
+
+	</nav>
+
+</div>
+
+			
+			
+		
+		
+</header><!-- #site-header -->
+
+	</div>
+	
+			
+			<main id="main" class="site-main clr"  role="main">
+
+				
+
+<header class="page-header">
+
+	
+	<div class="container clr page-header-inner">
+
+		
+			<h1 class="page-header-title clr" itemprop="headline"></h1>
+
+			
+		
+		
+	</div><!-- .page-header-inner -->
+
+	
+	
+</header><!-- .page-header -->
+
+
+	
+	<div id="content-wrap" class="container clr">
+
+		
+		<div id="primary" class="content-area clr">
+
+			
+			<div id="content" class="site-content clr">
+
+				
+				
+<article class="single-page-article clr">
+
+	
+<div class="entry clr" itemprop="text">
+
+	
+	
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>قسم البداية &#8211; صواب تيك </title>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&#038;family=Changa:wght@400;700&#038;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        /* ============== Global Styles & Utility Classes (for context within the snippet) ============== */
+        :root {
+            --primary-purple: #6A0DAD; /* بنفسجي بارز */
+            --secondary-purple: #A948ED; /* بنفسجي فاتح / ثانوي */
+            --dark-bg: #0A0A0A; /* أسود عميق */
+            --light-bg: #FDFDFD; /* أبيض ناعم */
+            --text-dark: #333333; /* نص داكن على فاتح */
+            --text-light: #E0E0E0; /* نص فاتح على داكن */
+            --heading-dark: #1A1A1A; /* عنوان داكن على فاتح */
+            --heading-light: #FFFFFF; /* عنوان فاتح على داكن */
+            --border-light: #E0E0E0; /* حدود فاتحة */
+            --highlight-glow: rgba(169, 72, 237, 0.4); /* توهج من البنفسجي الثانوي */
+            --transition-speed: 0.4s ease-out; /* سرعة الانتقال الافتراضية */
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Cairo', sans-serif;
+            direction: rtl;
+            text-align: right;
+            line-height: 1.6;
+            color: var(--text-dark);
+            background-color: var(--light-bg);
+            overflow-x: hidden; /* لمنع ظهور شريط التمرير الأفقي */
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Changa', sans-serif;
+            font-weight: 700;
+            line-height: 1.2;
+            margin-bottom: 20px;
+            color: var(--heading-dark);
+        }
+
+        p {
+            font-size: 1.1em;
+            margin-bottom: 1em;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 25px;
+            border-radius: 8px;
+            font-weight: 700;
+            text-align: center;
+            transition: background-color var(--transition-speed), transform var(--transition-speed), box-shadow var(--transition-speed);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            position: relative;
+            overflow: hidden;
+            z-index: 1;
+            border: none;
+            text-decoration: none; /* إزالة خطوط الروابط */
+        }
+        .btn::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 0;
+            height: 0;
+            background: radial-gradient(circle, rgba(255,255,255,0.4) 0%, transparent 100%);
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            opacity: 0;
+            transition: width 0.4s ease, height 0.4s ease, opacity 0.4s ease;
+            z-index: -1;
+        }
+        .btn:hover::before {
+            width: 200%;
+            height: 200%;
+            opacity: 1;
+        }
+
+        .btn-primary {
+            background-color: var(--primary-purple);
+            color: var(--heading-light);
+            border: 2px solid var(--primary-purple);
+        }
+
+        .btn-primary:hover {
+            background-color: var(--secondary-purple);
+            border-color: var(--secondary-purple);
+            transform: translateY(-3px);
+            box-shadow: 0 8px 15px rgba(0,0,0,0.2), 0 0 20px var(--highlight-glow);
+        }
+
+        .btn-secondary {
+            background-color: transparent;
+            color: var(--primary-purple);
+            border: 2px solid var(--primary-purple);
+        }
+
+        .btn-secondary:hover {
+            background-color: var(--primary-purple);
+            color: var(--heading-light);
+            transform: translateY(-3px);
+            box-shadow: 0 8px 15px rgba(0,0,0,0.2), 0 0 20px var(--highlight-glow);
+        }
+
+        /* ============== Animations Definitions ============== */
+        @keyframes fadeInSlideUp {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        @keyframes floatAnimation {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-15px); }
+            100% { transform: translateY(0px); }
+        }
+        @keyframes backgroundPulse {
+            0% { opacity: 0.2; }
+            50% { opacity: 0.3; }
+            100% { opacity: 0.2; }
+        }
+
+        /* Initial hidden state for elements to be animated */
+        .animate-on-load {
+            opacity: 0;
+            transform: translateY(30px);
+        }
+        .hero-image.animate-float-on-load {
+            opacity: 0;
+        }
+
+        /* Animation classes applied by JS */
+        .animate-heading.is-visible { animation: fadeInSlideUp 0.8s ease-out forwards; }
+        .animate-text.is-visible { animation: fadeInSlideUp 0.8s ease-out forwards; animation-delay: 0.2s; }
+        .animate-buttons.is-visible { animation: fadeInSlideUp 0.8s ease-out forwards; animation-delay: 0.4s; }
+        .hero-image.animate-float-on-load.is-visible { animation: floatAnimation 3s ease-in-out infinite, fadeIn 0.8s ease-out forwards; animation-delay: 0.6s; }
+
+
+        /* ============== Hero Section Styles ============== */
+        .hero-section {
+            background: linear-gradient(135deg, var(--dark-bg) 0%, #1a013d 100%);
+            color: var(--heading-light);
+            padding: 100px 0;
+            display: flex;
+            align-items: center;
+            min-height: 80vh; /* يضمن أن القسم يملأ معظم الشاشة */
+            position: relative;
+            overflow: hidden;
+            text-align: right; /* Default for RTL */
+        }
+        .hero-section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: radial-gradient(circle at center, rgba(106, 13, 173, 0.1) 0%, transparent 70%);
+            background-size: cover;
+            opacity: 0.2;
+            animation: backgroundPulse 15s infinite alternate ease-in-out;
+        }
+
+        .hero-section .container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 40px;
+            position: relative;
+            z-index: 1; /* للتأكد من ظهور المحتوى فوق الخلفية المتحركة */
+        }
+        .hero-content {
+            flex: 1;
+            text-align: right;
+            padding-left: 20px; /* لترك مساحة صغيرة عن الحافة اليسرى على الشاشات الكبيرة */
+        }
+        .hero-content h1 {
+            font-size: 4em;
+            color: var(--heading-light);
+            margin-bottom: 25px;
+            text-shadow: 0 0 15px var(--highlight-glow); /* توهج حول النص */
+        }
+        .hero-content p {
+            font-size: 1.3em;
+            color: var(--text-light);
+            max-width: 600px;
+            margin-right: auto; /* للحفاظ على النص محاذياً لليمين */
+            line-height: 1.8;
+        }
+        .hero-buttons {
+            margin-top: 40px;
+            display: flex;
+            gap: 20px;
+            justify-content: flex-end; /* لمحاذاة الأزرار لليمين */
+        }
+        .hero-image {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .hero-image img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.4), 0 0 25px var(--highlight-glow); /* ظل وتوهج حول الصورة */
+            transition: transform var(--transition-speed);
+        }
+        .hero-image img:hover {
+            transform: scale(1.03); /* تكبير طفيف عند التمرير */
+        }
+
+        /* ============== Media Queries for Responsiveness ============== */
+        @media (max-width: 991px) {
+            .hero-section .container {
+                flex-direction: column-reverse; /* الصورة أولاً ثم المحتوى على الشاشات الأصغر */
+                text-align: center;
+            }
+            .hero-content {
+                text-align: center;
+                padding-left: 0;
+            }
+            .hero-buttons {
+                justify-content: center; /* محاذاة الأزرار للمنتصف */
+            }
+            .hero-content h1 {
+                font-size: 3.5em;
+            }
+            .hero-content p {
+                font-size: 1.2em;
+                margin-left: auto; /* لإلغاء margin-right: auto على الشاشات الأكبر */
+            }
+            .hero-image img {
+                max-width: 80%; /* تصغير الصورة قليلاً */
+                margin-top: 40px; /* لإعطاء مساحة بين الصورة والمحتوى */
+            }
+        }
+
+        @media (max-width: 767px) {
+            .hero-section {
+                padding: 80px 0;
+                min-height: 70vh;
+            }
+            .hero-content h1 {
+                font-size: 2.8em;
+            }
+            .hero-content p {
+                font-size: 1em;
+            }
+            .hero-buttons {
+                flex-direction: column; /* الأزرار فوق بعضها */
+                gap: 15px;
+            }
+            .btn {
+                width: 100%; /* الأزرار تأخذ عرضًا كاملاً */
+            }
+            .hero-image img {
+                max-width: 90%; /* تصغير الصورة أكثر */
+            }
+        }
+
+        @media (max-width: 480px) {
+            .hero-section {
+                padding: 60px 0;
+                min-height: 60vh;
+            }
+            .hero-content h1 {
+                font-size: 2.2em;
+            }
+            .hero-content p {
+                font-size: 0.95em;
+            }
+            .hero-buttons {
+                margin-top: 30px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <section id="hero-section" class="hero-section">
+        <div class="container">
+            <div class="hero-content">
+                <h1 class="animate-on-load animate-heading">
+                    استعد سيطرتك الرقمية: <span style="color: var(--secondary-purple);">نستعيد لك كل ما فقدت!</span>
+                </h1>
+                <p class="animate-on-load animate-text">
+                    هل تشعر بالضياع بعد فقدان الوصول إلى حساباتك الثمينة على فيسبوك، انستغرام، تيك توك، جيميل، وغيرها؟
+                    دع صواب تيك يكون بوابتك لاستعادة عالمك الرقمي.
+                    فريقنا المتخصص هنا لضمان عودتك الآمنة والسريعة إلى ما يخصك.
+                </p>
+                <div class="hero-buttons animate-on-load animate-buttons">
+                    <a href="#contact" class="btn btn-primary">
+                        <i class="fab fa-whatsapp"></i> تواصل معنا الآن
+                    </a>
+                    <a href="#services" class="btn btn-secondary">
+                        <i class="fas fa-hand-holding-heart"></i> اكتشف كيف نساعدك
+                    </a>
+                </div>
+            </div>
+            <div class="hero-image animate-float-on-load">
+                <img decoding="async" src="http://sawab.tech/wp-content/uploads/2025/06/7d81619fdc6519eae3ba5de64ab2828f.webp" alt="شخص يستعيد الوصول إلى بياناته الرقمية">
+            </div>
+        </div>
+    </section>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const animateElements = document.querySelectorAll('.animate-on-load');
+            const heroImage = document.querySelector('.hero-image.animate-float-on-load');
+
+            const animationObserverOptions = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.1 // Trigger when 10% of the element is visible
+            };
+
+            const animationObserver = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('is-visible');
+                        observer.unobserve(entry.target); // Stop observing once animated
+                    }
+                });
+            }, animationObserverOptions);
+
+            animateElements.forEach(element => {
+                animationObserver.observe(element);
+            });
+
+            // Special observation for the hero image if it's not already covered
+            if (heroImage && !heroImage.classList.contains('animate-on-load')) {
+                 animationObserver.observe(heroImage);
+            }
+        });
+    </script>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>نبذة عن الخدمة &#8211; صواب تيك</title> <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&#038;family=Changa:wght@400;700&#038;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        /* ============== Global Styles & Utility Classes (for context within the snippet) ============== */
+        :root {
+            --primary-purple: #6A0DAD; /* بنفسجي بارز */
+            --secondary-purple: #A948ED; /* بنفسجي فاتح / ثانوي */
+            --dark-bg: #0A0A0A; /* أسود عميق */
+            --light-bg: #FDFDFD; /* أبيض ناعم */
+            --text-dark: #333333; /* نص داكن على فاتح */
+            --text-light: #E0E0E0; /* نص فاتح على داكن */
+            --heading-dark: #1A1A1A; /* عنوان داكن على فاتح */
+            --heading-light: #FFFFFF; /* عنوان فاتح على داكن */
+            --border-light: #E0E0E0; /* حدود فاتحة */
+            --highlight-glow: rgba(169, 72, 237, 0.4); /* توهج من البنفسجي الثانوي */
+            --transition-speed: 0.4s ease-out; /* سرعة الانتقال الافتراضية */
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Cairo', sans-serif;
+            direction: rtl;
+            text-align: right;
+            line-height: 1.6;
+            color: var(--text-dark);
+            background-color: var(--light-bg);
+            overflow-x: hidden; /* لمنع ظهور شريط التمرير الأفقي */
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Changa', sans-serif;
+            font-weight: 700;
+            line-height: 1.2;
+            margin-bottom: 20px;
+            color: var(--heading-dark);
+        }
+
+        p {
+            font-size: 1.1em;
+            margin-bottom: 1em;
+        }
+
+        .section-description {
+            font-size: 1.2em;
+            color: var(--text-dark);
+            margin-bottom: 50px;
+            max-width: 800px;
+            margin-right: auto;
+            margin-left: auto;
+            text-align: center;
+        }
+
+        /* ============== Animations Definitions ============== */
+        @keyframes fadeInSlideUp {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes pulseGlow {
+            0% { text-shadow: 0 0 5px var(--secondary-purple); }
+            50% { text-shadow: 0 0 15px var(--secondary-purple), 0 0 25px rgba(169, 72, 237, 0.7); }
+            100% { text-shadow: 0 0 5px var(--secondary-purple); }
+        }
+
+        /* Initial hidden state for elements to be animated */
+        .animate-on-load {
+            opacity: 0;
+            transform: translateY(30px);
+        }
+        /* Animation classes applied by JS */
+        .animate-heading.is-visible { animation: fadeInSlideUp 0.8s ease-out forwards; }
+        .animate-text.is-visible { animation: fadeInSlideUp 0.8s ease-out forwards; animation-delay: 0.2s; }
+        .service-info-item.animate-up.is-visible { animation: fadeInSlideUp 0.7s ease-out forwards; }
+        .service-info-item.animate-up.delay-1.is-visible { animation-delay: 0.2s; }
+        .service-info-item.animate-up.delay-2.is-visible { animation-delay: 0.4s; }
+        .service-info-item.animate-up.delay-3.is-visible { animation-delay: 0.6s; }
+
+
+        /* ============== About Our Service Section Styles ============== */
+        .about-service-section {
+            padding: 80px 0;
+            text-align: center;
+            background-color: var(--light-bg);
+        }
+        .about-service-section h2 {
+            color: var(--heading-dark);
+        }
+        .service-info-grid {
+            display: grid;
+            /* Creates responsive columns: min 280px, max 1fr, fits as many as possible */
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+            margin-top: 50px;
+        }
+        .service-info-item {
+            background: linear-gradient(145deg, #ffffff, #f0f0f0);
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+            border: 1px solid var(--border-light);
+            text-align: right;
+            transition: transform var(--transition-speed), box-shadow var(--transition-speed);
+        }
+        .service-info-item:hover {
+            transform: translateY(-8px); /* رفع البطاقة قليلاً */
+            box-shadow: 0 12px 30px rgba(0,0,0,0.15), 0 0 15px rgba(106, 13, 173, 0.2); /* ظل وتوهج أقوى */
+        }
+        .service-info-item i {
+            font-size: 2.5em;
+            color: var(--primary-purple);
+            margin-bottom: 15px;
+            animation: pulseGlow 3s infinite alternate; /* توهج الأيقونة */
+        }
+        .service-info-item h3 {
+            color: var(--heading-dark);
+            margin-bottom: 10px;
+        }
+        .service-info-item ul {
+            list-style: none; /* إزالة النقاط الافتراضية للقائمة */
+            padding: 0;
+            margin: 0;
+            color: var(--text-dark);
+        }
+        .service-info-item ul li {
+            margin-bottom: 8px;
+            font-size: 1em;
+            display: flex; /* لترتيب الأيقونة والنص في سطر واحد */
+            align-items: center;
+            gap: 10px; /* مسافة بين الأيقونة والنص */
+        }
+        .service-info-item ul li:last-child { margin-bottom: 0; }
+        .service-info-item ul li i {
+            font-size: 0.9em; /* تصغير حجم أيقونة القائمة */
+            color: var(--secondary-purple); /* لون أيقونات القائمة */
+            margin-bottom: 0; /* إزالة هامش الأيقونات الداخلية */
+            animation: none; /* تعطيل توهج الأيقونات الداخلية */
+        }
+
+
+        /* ============== Media Queries for Responsiveness ============== */
+        @media (max-width: 991px) {
+            .about-service-section { padding: 60px 0; }
+            .section-description { font-size: 1.1em; }
+            h2 { font-size: 2.2em; }
+            h3 { font-size: 1.8em; }
+            .service-info-item { padding: 25px; }
+            .service-info-item i { font-size: 2.2em; }
+        }
+
+        @media (max-width: 767px) {
+            .about-service-section { padding: 50px 0; }
+            .section-description { font-size: 1em; margin-bottom: 30px; }
+            h2 { font-size: 2em; }
+            h3 { font-size: 1.6em; }
+            .service-info-grid {
+                grid-template-columns: 1fr; /* عمود واحد على الشاشات الصغيرة جداً */
+                gap: 20px;
+            }
+            .service-info-item { padding: 20px; }
+            .service-info-item i { font-size: 2em; margin-bottom: 10px; }
+            .service-info-item ul li { font-size: 0.95em; }
+        }
+    </style>
+</head>
+<body>
+
+    <section id="about-service-section" class="about-service-section">
+        <div class="container">
+            <h2 class="animate-on-load animate-heading">
+                صواب تيك : شريكك الموثوق لاستعادة عالمك الرقمي
+            </h2>
+            <p class="section-description animate-on-load animate-text">
+                هل فقدت الأمل في استعادة حساباتك الرقمية؟ في صواب تيك، نحول التحديات إلى حلول.
+                نقدم لك خدمة متكاملة لاستعادة الوصول إلى جميع حساباتك على المنصات الكبرى بأمان مطلق،
+                سرعة استثنائية، ودعم فني لا مثيل له.
+            </p>
+            <div class="service-info-grid">
+                <div class="service-info-item animate-on-load animate-up delay-1">
+                    <i class="fas fa-user-shield"></i>
+                    <h3>الأمان والسرية أولويتنا القصوى</h3>
+                    <ul>
+                        <li><i class="fas fa-check-circle"></i> ضمان حماية بياناتك الشخصية بنسبة 100%.</li>
+                        <li><i class="fas fa-check-circle"></i> استخدام أحدث بروتوكولات الأمان العالمية.</li>
+                        <li><i class="fas fa-check-circle"></i> عملية استعادة شفافة وموثوقة دون الوصول لمحتواك.</li>
+                    </ul>
+                </div>
+                <div class="service-info-item animate-on-load animate-up delay-2">
+                    <i class="fas fa-tachometer-alt"></i>
+                    <h3>سرعة استجابة وفعالية لا تضاهى</h3>
+                    <ul>
+                        <li><i class="fas fa-check-circle"></i> فريق متخصص يعمل على مدار الساعة لخدمتك.</li>
+                        <li><i class="fas fa-check-circle"></i> معالجة فورية لطلبات الاستعادة لتقليل وقت الانتظار.</li>
+                        <li><i class="fas fa-check-circle"></i> نهج عملي ومباشر لنتائج سريعة ومضمونة.</li>
+                    </ul>
+                </div>
+                <div class="service-info-item animate-on-load animate-up delay-3">
+                    <i class="fas fa-headset"></i>
+                    <h3>دعم فني شخصي ومستمر</h3>
+                    <ul>
+                        <li><i class="fas fa-check-circle"></i> خبراء في أمن المعلومات متأهبون لمساعدتك.</li>
+                        <li><i class="fas fa-check-circle"></i> إرشادات واضحة خطوة بخطوة حتى استعادة حسابك.</li>
+                        <li><i class="fas fa-check-circle"></i> متابعة مستمرة لضمان رضاك التام بعد الخدمة.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const animateElements = document.querySelectorAll('.animate-on-load');
+
+            const animationObserverOptions = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.1 // Trigger when 10% of the element is visible
+            };
+
+            const animationObserver = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('is-visible');
+                        observer.unobserve(entry.target); // Stop observing once animated
+                    }
+                });
+            }, animationObserverOptions);
+
+            animateElements.forEach(element => {
+                animationObserver.observe(element);
+            });
+        });
+    </script>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>كيف نعمل &#8211; صواب تيك</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&#038;family=Changa:wght@400;700&#038;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        /* ============== Global Styles & Utility Classes (for context within the snippet) ============== */
+        :root {
+            --primary-purple: #6A0DAD; /* بنفسجي بارز */
+            --secondary-purple: #A948ED; /* بنفسجي فاتح / ثانوي */
+            --dark-bg: #0A0A0A; /* أسود عميق */
+            --light-bg: #FDFDFD; /* أبيض ناعم */
+            --text-dark: #333333; /* نص داكن على فاتح */
+            --text-light: #E0E0E0; /* نص فاتح على داكن */
+            --heading-dark: #1A1A1A; /* عنوان داكن على فاتح */
+            --heading-light: #FFFFFF; /* عنوان فاتح على داكن */
+            --border-light: #E0E0E0; /* حدود فاتحة */
+            --border-dark-transparent: rgba(255, 255, 255, 0.1); /* حدود شفافة على الداكن */
+            --highlight-glow: rgba(169, 72, 237, 0.4); /* توهج من البنفسجي الثانوي */
+            --transition-speed: 0.4s ease-out; /* سرعة الانتقال الافتراضية */
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Cairo', sans-serif;
+            direction: rtl;
+            text-align: right;
+            line-height: 1.6;
+            color: var(--text-dark);
+            background-color: var(--light-bg);
+            overflow-x: hidden; /* لمنع ظهور شريط التمرير الأفقي */
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Changa', sans-serif;
+            font-weight: 700;
+            line-height: 1.2;
+            margin-bottom: 20px;
+            color: var(--heading-dark);
+        }
+
+        p {
+            font-size: 1.1em;
+            margin-bottom: 1em;
+        }
+
+        .section-description {
+            font-size: 1.2em;
+            color: var(--text-dark);
+            margin-bottom: 50px;
+            max-width: 800px;
+            margin-right: auto;
+            margin-left: auto;
+            text-align: center;
+        }
+
+        .dark-background {
+            background-color: var(--dark-bg);
+            color: var(--text-light);
+        }
+
+        .dark-background h1, .dark-background h2, .dark-background h3 {
+            color: var(--heading-light);
+        }
+
+        .dark-background .section-description, .dark-background p {
+            color: var(--text-light);
+        }
+
+        /* ============== Animations Definitions ============== */
+        @keyframes fadeInSlideUp {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes pulseGlow {
+            0% { text-shadow: 0 0 5px var(--secondary-purple); }
+            50% { text-shadow: 0 0 15px var(--secondary-purple), 0 0 25px rgba(169, 72, 237, 0.7); }
+            100% { text-shadow: 0 0 5px var(--secondary-purple); }
+        }
+
+        /* Initial hidden state for elements to be animated */
+        .animate-on-load {
+            opacity: 0;
+            transform: translateY(30px);
+        }
+        /* Animation classes applied by JS */
+        .animate-heading.is-visible { animation: fadeInSlideUp 0.8s ease-out forwards; }
+        .animate-text.is-visible { animation: fadeInSlideUp 0.8s ease-out forwards; animation-delay: 0.2s; }
+        .how-it-works-step.animate-slide-in.is-visible { animation: fadeInSlideUp 0.7s ease-out forwards; }
+        .how-it-works-step.animate-slide-in.delay-1.is-visible { animation-delay: 0.1s; }
+        .how-it-works-step.animate-slide-in.delay-2.is-visible { animation-delay: 0.2s; }
+        .how-it-works-step.animate-slide-in.delay-3.is-visible { animation-delay: 0.3s; }
+        .how-it-works-step.animate-slide-in.delay-4.is-visible { animation-delay: 0.4s; }
+
+
+        /* ============== How It Works Section Styles ============== */
+        .how-it-works-section {
+            padding: 80px 0;
+            background-color: var(--dark-bg); /* خلفية داكنة لتمييز القسم */
+            text-align: center;
+        }
+        .how-it-works-section h2 {
+            color: var(--heading-light);
+            text-shadow: 0 0 10px var(--highlight-glow); /* توهج حول العنوان */
+        }
+        .how-it-works-section .section-description {
+            color: var(--text-light);
+        }
+        .how-it-works-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* تخطيط متجاوب للخطوات */
+            gap: 40px;
+            margin-top: 60px;
+            position: relative;
+        }
+        .how-it-works-step {
+            background: linear-gradient(145deg, #1A1A1A, #0A0A0A); /* خلفية داكنة مع تدرج للبطاقات */
+            padding: 35px;
+            border-radius: 12px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.3), 0 0 15px rgba(106, 13, 173, 0.2);
+            border: 1px solid var(--border-dark-transparent);
+            text-align: center;
+            transition: transform var(--transition-speed), box-shadow var(--transition-speed);
+            position: relative;
+            z-index: 1;
+            overflow: hidden; /* لإخفاء أي توهج يتجاوز الحدود */
+        }
+        .how-it-works-step::before {
+            content: '';
+            position: absolute;
+            top: -2px;
+            left: -2px;
+            right: -2px;
+            bottom: -2px;
+            border-radius: 14px;
+            background: linear-gradient(45deg, var(--primary-purple) 0%, var(--secondary-purple) 100%);
+            z-index: -1;
+            filter: blur(8px); /* تأثير توهج حول الحواف */
+            opacity: 0;
+            transition: opacity 0.4s ease;
+        }
+        .how-it-works-step:hover::before {
+            opacity: 0.4; /* إظهار التوهج عند التمرير */
+        }
+        .how-it-works-step:hover {
+            transform: translateY(-10px); /* رفع البطاقة عند التمرير */
+            box-shadow: 0 15px 40px rgba(0,0,0,0.5), 0 0 25px var(--highlight-glow); /* ظل وتوهج أقوى */
+        }
+
+        .how-it-works-step .step-number {
+            display: inline-flex;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background-color: var(--primary-purple);
+            color: var(--heading-light);
+            font-size: 2em;
+            font-weight: 700;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 25px;
+            border: 3px solid var(--secondary-purple); /* حدود بارزة للرقم */
+            box-shadow: 0 0 15px var(--highlight-glow); /* توهج حول الرقم */
+            transition: background-color 0.3s ease, border-color 0.3s ease;
+        }
+        .how-it-works-step:hover .step-number {
+            background-color: var(--secondary-purple); /* تغيير لون الخلفية عند التمرير */
+            border-color: var(--primary-purple); /* تغيير لون الحدود عند التمرير */
+        }
+
+        .how-it-works-step h3 {
+            color: var(--heading-light);
+            margin-bottom: 15px;
+        }
+        .how-it-works-step p {
+            color: var(--text-light);
+            font-size: 1em;
+        }
+        .how-it-works-step i {
+            font-size: 3em;
+            color: var(--secondary-purple);
+            margin-bottom: 20px;
+            animation: pulseGlow 3s infinite alternate; /* توهج الأيقونة */
+        }
+
+        /* ============== Media Queries for Responsiveness ============== */
+        @media (max-width: 991px) {
+            .how-it-works-section { padding: 60px 0; }
+            .section-description { font-size: 1.1em; }
+            h2 { font-size: 2.2em; }
+            h3 { font-size: 1.8em; }
+            .how-it-works-step { padding: 30px; }
+            .how-it-works-step i { font-size: 2.5em; }
+            .how-it-works-step .step-number { width: 55px; height: 55px; font-size: 1.8em; margin-bottom: 20px; }
+        }
+
+        @media (max-width: 767px) {
+            .how-it-works-section { padding: 50px 0; }
+            .section-description { font-size: 1em; margin-bottom: 30px; }
+            h2 { font-size: 2em; }
+            h3 { font-size: 1.6em; }
+            .how-it-works-grid {
+                grid-template-columns: 1fr; /* عمود واحد على الشاشات الصغيرة جداً */
+                gap: 25px;
+                margin-top: 40px;
+            }
+            .how-it-works-step { padding: 25px; }
+            .how-it-works-step i { font-size: 2.2em; margin-bottom: 15px; }
+            .how-it-works-step .step-number { width: 50px; height: 50px; font-size: 1.6em; margin-bottom: 15px; }
+        }
+    </style>
+</head>
+<body>
+
+    <section id="how-it-works-section" class="how-it-works-section dark-background">
+        <div class="container">
+            <h2 class="animate-on-load animate-heading">
+                كيف تعمل صواب تيك: خطوات بسيطة لاستعادة حسابك
+            </h2>
+            <p class="section-description animate-on-load animate-text">
+                نحن نؤمن بالوضوح والفعالية. اتبع هذه الخطوات المباشرة لاستعادة الوصول إلى عالمك الرقمي مع صواب تيك.
+            </p>
+            <div class="how-it-works-grid">
+                <div class="how-it-works-step animate-on-load animate-slide-in delay-1">
+                    <span class="step-number">1</span>
+                    <i class="fas fa-file-alt"></i>
+                    <h3>أرسل طلب الاستعادة</h3>
+                    <p>ابدأ بملء نموذجنا السريع مع تفاصيل حسابك المفقود ونوع المشكلة التي تواجهها. كل معلومة تساعدنا.</p>
+                </div>
+                <div class="how-it-works-step animate-on-load animate-slide-in delay-2">
+                    <span class="step-number">2</span>
+                    <i class="fas fa-fingerprint"></i>
+                    <h3>تأكيد هويتك</h3>
+                    <p>لضمان الأمان، قد نطلب منك وثائق بسيطة لإثبات ملكيتك الشرعية للحساب. خصوصيتك في أمان تام.</p>
+                </div>
+                <div class="how-it-works-step animate-on-load animate-slide-in delay-3">
+                    <span class="step-number">3</span>
+                    <i class="fas fa-cogs"></i>
+                    <h3>معالجة احترافية</h3>
+                    <p>فريقنا من الخبراء التقنيين يبدأ فوراً بالعمل على طلبك، مستخدمين أحدث الأساليب لفك التعقيدات.</p>
+                </div>
+                <div class="how-it-works-step animate-on-load animate-slide-in delay-4">
+                    <span class="step-number">4</span>
+                    <i class="fas fa-unlock-alt"></i>
+                    <h3>استعد وصولك</h3>
+                    <p>بمجرد الانتهاء، نُعلمك بأن حسابك أصبح جاهزاً. استمتع بعودتك الآمنة والسريعة إلى عالمك الرقمي!</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const animateElements = document.querySelectorAll('.animate-on-load');
+
+            const animationObserverOptions = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.1 // Trigger when 10% of the element is visible
+            };
+
+            const animationObserver = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('is-visible');
+                        observer.unobserve(entry.target); // Stop observing once animated
+                    }
+                });
+            }, animationObserverOptions);
+
+            animateElements.forEach(element => {
+                animationObserver.observe(element);
+            });
+        });
+    </script>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>خدماتنا &#8211; صواب تيك</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&#038;family=Changa:wght@400;700&#038;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        /* ============== Global Styles & Utility Classes (for context within the snippet) ============== */
+        :root {
+            --primary-purple: #6A0DAD; /* بنفسجي بارز */
+            --secondary-purple: #A948ED; /* بنفسجي فاتح / ثانوي */
+            --dark-bg: #0A0A0A; /* أسود عميق */
+            --light-bg: #FDFDFD; /* أبيض ناعم */
+            --text-dark: #333333; /* نص داكن على فاتح */
+            --text-light: #E0E0E0; /* نص فاتح على داكن */
+            --heading-dark: #1A1A1A; /* عنوان داكن على فاتح */
+            --heading-light: #FFFFFF; /* عنوان فاتح على داكن */
+            --border-light: #E0E0E0; /* حدود فاتحة */
+            --highlight-glow: rgba(169, 72, 237, 0.4); /* توهج من البنفسجي الثانوي */
+            --transition-speed: 0.4s ease-out; /* سرعة الانتقال الافتراضية */
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Cairo', sans-serif;
+            direction: rtl;
+            text-align: right;
+            line-height: 1.6;
+            color: var(--text-dark);
+            background-color: var(--light-bg);
+            overflow-x: hidden; /* لمنع ظهور شريط التمرير الأفقي */
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Changa', sans-serif;
+            font-weight: 700;
+            line-height: 1.2;
+            margin-bottom: 20px;
+            color: var(--heading-dark);
+        }
+
+        p {
+            font-size: 1.1em;
+            margin-bottom: 1em;
+        }
+
+        .section-description {
+            font-size: 1.2em;
+            color: var(--text-dark);
+            margin-bottom: 50px;
+            max-width: 800px;
+            margin-right: auto;
+            margin-left: auto;
+            text-align: center;
+        }
+
+        /* ============== Animations Definitions ============== */
+        @keyframes fadeInSlideUp {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes pulseGlow {
+            0% { text-shadow: 0 0 5px var(--secondary-purple); }
+            50% { text-shadow: 0 0 15px var(--secondary-purple), 0 0 25px rgba(169, 72, 237, 0.7); }
+            100% { text-shadow: 0 0 5px var(--secondary-purple); }
+        }
+
+        /* Initial hidden state for elements to be animated */
+        .animate-on-load {
+            opacity: 0;
+            transform: translateY(30px);
+        }
+        /* Animation classes applied by JS */
+        .animate-heading.is-visible { animation: fadeInSlideUp 0.8s ease-out forwards; }
+        .animate-text.is-visible { animation: fadeInSlideUp 0.8s ease-out forwards; animation-delay: 0.2s; }
+        .service-card.animate-up.is-visible { animation: fadeInSlideUp 0.7s ease-out forwards; }
+        .service-card.animate-up.delay-1.is-visible { animation-delay: 0.1s; }
+        .service-card.animate-up.delay-2.is-visible { animation-delay: 0.2s; }
+        .service-card.animate-up.delay-3.is-visible { animation-delay: 0.3s; }
+        .service-card.animate-up.delay-4.is-visible { animation-delay: 0.4s; }
+        .service-card.animate-up.delay-5.is-visible { animation-delay: 0.5s; }
+        .service-card.animate-up.delay-6.is-visible { animation-delay: 0.6s; }
+        /* Add more delays if you add more cards */
+
+
+        /* ============== Services Section Styles ============== */
+        .services-section {
+            padding: 80px 0;
+            background-color: var(--light-bg);
+            text-align: center;
+        }
+        .services-section h2 {
+            color: var(--heading-dark);
+        }
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* تخطيط متجاوب للبطاقات */
+            gap: 30px;
+            margin-top: 50px;
+        }
+        .service-card {
+            background: linear-gradient(145deg, #ffffff, #f9f9f9);
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+            border: 1px solid var(--border-light);
+            text-align: center;
+            transition: transform var(--transition-speed), box-shadow var(--transition-speed);
+        }
+        .service-card:hover {
+            transform: translateY(-10px); /* رفع البطاقة قليلاً */
+            box-shadow: 0 12px 30px rgba(0,0,0,0.15), 0 0 15px rgba(106, 13, 173, 0.2); /* ظل وتوهج أقوى */
+        }
+        .service-card .icon {
+            font-size: 3.5em;
+            color: var(--primary-purple);
+            margin-bottom: 20px;
+            animation: pulseGlow 3s infinite alternate; /* توهج الأيقونة */
+        }
+        .service-card h3 {
+            color: var(--heading-dark);
+            margin-bottom: 10px;
+            font-size: 1.6em;
+        }
+        .service-card p {
+            color: var(--text-dark);
+            font-size: 1em;
+            line-height: 1.6;
+        }
+
+        /* Custom icons for social media platforms */
+        .icon.fa-facebook-f { color: #1877F2; } /* Facebook Blue */
+        .icon.fa-instagram {
+            background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        } /* Instagram Gradient */
+        .icon.fa-tiktok { color: #EE1D52; } /* TikTok Pink */
+        .icon.fa-google { color: #EA4335; } /* Google Red */
+        .icon.fa-twitter { color: #1DA1F2; } /* Twitter Blue */
+        .icon.fa-snapchat-ghost { color: #FFFC00; } /* Snapchat Yellow */
+        .icon.fa-linkedin-in { color: #0A66C2; } /* LinkedIn Blue */
+        .icon.fa-youtube { color: #FF0000; } /* YouTube Red */
+
+
+        /* ============== Media Queries for Responsiveness ============== */
+        @media (max-width: 991px) {
+            .services-section { padding: 60px 0; }
+            .section-description { font-size: 1.1em; }
+            h2 { font-size: 2.2em; }
+            h3 { font-size: 1.5em; }
+            .services-grid { gap: 25px; }
+            .service-card { padding: 25px; }
+            .service-card .icon { font-size: 3em; margin-bottom: 15px; }
+        }
+
+        @media (max-width: 767px) {
+            .services-section { padding: 50px 0; }
+            .section-description { font-size: 1em; margin-bottom: 30px; }
+            h2 { font-size: 2em; }
+            h3 { font-size: 1.4em; }
+            .services-grid {
+                grid-template-columns: 1fr; /* عمود واحد على الشاشات الصغيرة جداً */
+                gap: 20px;
+                margin-top: 40px;
+            }
+            .service-card { padding: 20px; }
+            .service-card .icon { font-size: 2.8em; margin-bottom: 10px; }
+            .service-card p { font-size: 0.95em; }
+        }
+    </style>
+</head>
+<body>
+
+    <section id="services-section" class="services-section">
+        <div class="container">
+            <h2 class="animate-on-load animate-heading">
+                خدماتنا: نستعيد الوصول إلى جميع حساباتك الرقمية
+            </h2>
+            <p class="section-description animate-on-load animate-text">
+                في صواب تيك، نفخر بتقديم حلول استعادة شاملة لمجموعة واسعة من المنصات الرقمية.
+                مهما كان نوع حسابك المفقود، نحن هنا لمساعدتك على استعادة السيطرة.
+            </p>
+            <div class="services-grid">
+                <div class="service-card animate-on-load animate-up delay-1">
+                    <i class="fab fa-facebook-f icon"></i>
+                    <h3>فيسبوك (Facebook)</h3>
+                    <p>استعد ملفك الشخصي، صفحاتك، ومجموعاتك. نضمن لك عودة آمنة وسريعة إلى مجتمع الفيسبوك.</p>
+                </div>
+                <div class="service-card animate-on-load animate-up delay-2">
+                    <i class="fab fa-instagram icon"></i>
+                    <h3>انستغرام (Instagram)</h3>
+                    <p>لا تفقد صورك وذكرياتك. دعنا نساعدك في استعادة حسابك على انستغرام بكل سهولة وأمان.</p>
+                </div>
+                <div class="service-card animate-on-load animate-up delay-3">
+                    <i class="fab fa-tiktok icon"></i>
+                    <h3>تيك توك (TikTok)</h3>
+                    <p>مقاطع الفيديو الخاصة بك آمنة معنا. نساعدك على استعادة حسابك على تيك توك ومحتواك الثمين.</p>
+                </div>
+                <div class="service-card animate-on-load animate-up delay-4">
+                    <i class="fab fa-google icon"></i>
+                    <h3>جيميل (Gmail) وخدمات جوجل</h3>
+                    <p>استعد وصولك إلى بريدك الإلكتروني، صورك، وملفاتك على جوجل درايف. حساباتك بين أيدٍ أمينة.</p>
+                </div>
+                <div class="service-card animate-on-load animate-up delay-5">
+                    <i class="fab fa-twitter icon"></i>
+                    <h3>تويتر (X)</h3>
+                    <p>استعد تغريداتك ومتابعيك. نساعدك في استعادة حسابك على تويتر/X والعودة إلى عالم الأخبار والتفاعلات.</p>
+                </div>
+                <div class="service-card animate-on-load animate-up delay-6">
+                    <i class="fas fa-ellipsis-h icon"></i>
+                    <h3>منصات أخرى</h3>
+                    <p>خدمتنا لا تقتصر على هذه المنصات. تواصل معنا لمساعدتك في استعادة أي حساب رقمي آخر فقدت الوصول إليه.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const animateElements = document.querySelectorAll('.animate-on-load');
+
+            const animationObserverOptions = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.1 // Trigger when 10% of the element is visible
+            };
+
+            const animationObserver = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('is-visible');
+                        observer.unobserve(entry.target); // Stop observing once animated
+                    }
+                });
+            }, animationObserverOptions);
+
+            animateElements.forEach(element => {
+                animationObserver.observe(element);
+            });
+        });
+    </script>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>لماذا تختارنا &#8211; صواب تيك</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&#038;family=Changa:wght@400;700&#038;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        /* ============== Global Styles & Utility Classes (for context within the snippet) ============== */
+        :root {
+            --primary-purple: #6A0DAD; /* بنفسجي بارز */
+            --secondary-purple: #A948ED; /* بنفسجي فاتح / ثانوي */
+            --dark-bg: #0A0A0A; /* أسود عميق */
+            --light-bg: #FDFDFD; /* أبيض ناعم */
+            --text-dark: #333333; /* نص داكن على فاتح */
+            --text-light: #E0E0E0; /* نص فاتح على داكن */
+            --heading-dark: #1A1A1A; /* عنوان داكن على فاتح */
+            --heading-light: #FFFFFF; /* عنوان فاتح على داكن */
+            --border-light: #E0E0E0; /* حدود فاتحة */
+            --highlight-glow: rgba(169, 72, 237, 0.4); /* توهج من البنفسجي الثانوي */
+            --transition-speed: 0.4s ease-out; /* سرعة الانتقال الافتراضية */
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Cairo', sans-serif;
+            direction: rtl;
+            text-align: right;
+            line-height: 1.6;
+            color: var(--text-dark);
+            background-color: var(--light-bg);
+            overflow-x: hidden; /* لمنع ظهور شريط التمرير الأفقي */
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Changa', sans-serif;
+            font-weight: 700;
+            line-height: 1.2;
+            margin-bottom: 20px;
+            color: var(--heading-dark);
+        }
+
+        p {
+            font-size: 1.1em;
+            margin-bottom: 1em;
+        }
+
+        .section-description {
+            font-size: 1.2em;
+            color: var(--text-dark);
+            margin-bottom: 50px;
+            max-width: 800px;
+            margin-right: auto;
+            margin-left: auto;
+            text-align: center;
+        }
+
+        /* ============== Animations Definitions ============== */
+        @keyframes fadeInSlideUp {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes pulseGlow {
+            0% { text-shadow: 0 0 5px var(--secondary-purple); }
+            50% { text-shadow: 0 0 15px var(--secondary-purple), 0 0 25px rgba(169, 72, 237, 0.7); }
+            100% { text-shadow: 0 0 5px var(--secondary-purple); }
+        }
+
+        /* Initial hidden state for elements to be animated */
+        .animate-on-load {
+            opacity: 0;
+            transform: translateY(30px);
+        }
+        /* Animation classes applied by JS */
+        .animate-heading.is-visible { animation: fadeInSlideUp 0.8s ease-out forwards; }
+        .animate-text.is-visible { animation: fadeInSlideUp 0.8s ease-out forwards; animation-delay: 0.2s; }
+        .why-choose-item.animate-up.is-visible { animation: fadeInSlideUp 0.7s ease-out forwards; }
+        .why-choose-item.animate-up.delay-1.is-visible { animation-delay: 0.1s; }
+        .why-choose-item.animate-up.delay-2.is-visible { animation-delay: 0.2s; }
+        .why-choose-item.animate-up.delay-3.is-visible { animation-delay: 0.3s; }
+        .why-choose-item.animate-up.delay-4.is-visible { animation-delay: 0.4s; }
+
+
+        /* ============== Why Choose Us Section Styles ============== */
+        .why-choose-us-section {
+            padding: 80px 0;
+            background-color: var(--light-bg); /* خلفية فاتحة للقسم */
+            text-align: center;
+        }
+        .why-choose-us-section h2 {
+            color: var(--heading-dark);
+        }
+        .why-choose-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* تخطيط متجاوب للبطاقات */
+            gap: 30px;
+            margin-top: 50px;
+        }
+        .why-choose-item {
+            background: linear-gradient(145deg, #ffffff, #f9f9f9);
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+            border: 1px solid var(--border-light);
+            text-align: right;
+            transition: transform var(--transition-speed), box-shadow var(--transition-speed);
+        }
+        .why-choose-item:hover {
+            transform: translateY(-8px); /* رفع البطاقة قليلاً */
+            box-shadow: 0 12px 30px rgba(0,0,0,0.15), 0 0 15px rgba(106, 13, 173, 0.2); /* ظل وتوهج أقوى */
+        }
+        .why-choose-item i {
+            font-size: 3em;
+            color: var(--primary-purple);
+            margin-bottom: 20px;
+            animation: pulseGlow 3s infinite alternate; /* توهج الأيقونة */
+        }
+        .why-choose-item h3 {
+            color: var(--heading-dark);
+            margin-bottom: 10px;
+            font-size: 1.6em;
+        }
+        .why-choose-item p {
+            color: var(--text-dark);
+            font-size: 1em;
+            line-height: 1.6;
+        }
+
+
+        /* ============== Media Queries for Responsiveness ============== */
+        @media (max-width: 991px) {
+            .why-choose-us-section { padding: 60px 0; }
+            .section-description { font-size: 1.1em; }
+            h2 { font-size: 2.2em; }
+            h3 { font-size: 1.5em; }
+            .why-choose-grid { gap: 25px; }
+            .why-choose-item { padding: 25px; }
+            .why-choose-item i { font-size: 2.5em; margin-bottom: 15px; }
+        }
+
+        @media (max-width: 767px) {
+            .why-choose-us-section { padding: 50px 0; }
+            .section-description { font-size: 1em; margin-bottom: 30px; }
+            h2 { font-size: 2em; }
+            h3 { font-size: 1.4em; }
+            .why-choose-grid {
+                grid-template-columns: 1fr; /* عمود واحد على الشاشات الصغيرة جداً */
+                gap: 20px;
+                margin-top: 40px;
+            }
+            .why-choose-item { padding: 20px; }
+            .why-choose-item i { font-size: 2.2em; margin-bottom: 10px; }
+            .why-choose-item p { font-size: 0.95em; }
+        }
+    </style>
+</head>
+<body>
+
+    <section id="why-choose-us-section" class="why-choose-us-section">
+        <div class="container">
+            <h2 class="animate-on-load animate-heading">
+                لماذا تختار صواب تيك؟ لأن أمنك الرقمي هو مهمتنا
+            </h2>
+            <p class="section-description animate-on-load animate-text">
+                في عالم رقمي دائم التغير، تحتاج إلى شريك يمكنك الوثوق به. إليك الأسباب التي تجعل صواب تيك خيارك الأمثل لاستعادة حساباتك.
+            </p>
+            <div class="why-choose-grid">
+                <div class="why-choose-item animate-on-load animate-up delay-1">
+                    <i class="fas fa-medal"></i>
+                    <h3>خبرة لا تضاهى</h3>
+                    <p>فريقنا يضم خبراء متخصصين في أمن المعلومات واستعادة الحسابات، مع سجل حافل بالنجاحات.</p>
+                </div>
+                <div class="why-choose-item animate-on-load animate-up delay-2">
+                    <i class="fas fa-lock"></i>
+                    <h3>أمان مطلق</h3>
+                    <p>نستخدم أحدث التقنيات وأشد البروتوكولات صرامة لضمان أمان بياناتك وخصوصيتك في كل خطوة.</p>
+                </div>
+                <div class="why-choose-item animate-on-load animate-up delay-3">
+                    <i class="fas fa-bolt"></i>
+                    <h3>سرعة وفعالية</h3>
+                    <p>نعمل بجد لتقديم أسرع الحلول الممكنة، لتعود إلى حساباتك في أقل وقت ممكن ودون تعقيدات.</p>
+                </div>
+                <div class="why-choose-item animate-on-load animate-up delay-4">
+                    <i class="fas fa-comments"></i>
+                    <h3>دعم متواصل</h3>
+                    <p>فريق دعم العملاء لدينا متاح دائمًا للإجابة على استفساراتك وتقديم المساعدة اللازمة قبل وبعد الخدمة.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const animateElements = document.querySelectorAll('.animate-on-load');
+
+            const animationObserverOptions = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.1 // Trigger when 10% of the element is visible
+            };
+
+            const animationObserver = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('is-visible');
+                        observer.unobserve(entry.target); // Stop observing once animated
+                    }
+                });
+            }, animationObserverOptions);
+
+            animateElements.forEach(element => {
+                animationObserver.observe(element);
+            });
+        });
+    </script>
+</body>
+</html>
+
+	
+</div>
+
+</article>
+
+				
+			</div><!-- #content -->
+
+			
+		</div><!-- #primary -->
+
+		
+	</div><!-- #content-wrap -->
+
+	
+
+	</main><!-- #main -->
+
+	
+	
+	
+		
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+
+	
+	<div id="footer-inner" class="clr">
+
+		
+
+<div id="footer-widgets" class="oceanwp-row clr">
+
+	
+	<div class="footer-widgets-inner container">
+
+					<div class="footer-box span_1_of_1 col col-1">
+				<div id="text-2" class="footer-widget widget_text clr">			<div class="textwidget"><div style="
+    text-align: center;
+    padding: 35px 30px; /* مساحة داخلية مريحة */
+    background: #ffffff; /* خلفية بيضاء نظيفة ومشرقة */
+    border-radius: 10px; /* زوايا مستديرة ناعمة */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* ظل خفيف جدًا يعطي عمقًا بسيطًا */
+    max-width: 400px; /* عرض مناسب ليكون مدمجًا وأنيقًا */
+    margin: 30px auto; /* توسيط الكتلة أفقيًا */
+    overflow: hidden;
+    transition: transform 0.2s ease-out, box-shadow 0.2s ease-out; /* تأثير انتقال ناعم عند التفاعل */
+    border: 1px solid #e0e0e0; /* حدود رفيعة جداً بلون رمادي فاتح */
+" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0, 0, 0, 0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0, 0, 0, 0.1)'">
+
+    <img width="110" height="110" src="https://sawab.tech/wp-content/uploads/2025/06/cropped-Dynamic-Wordmark-Logo-for-Sawab-Tech2-1.png" alt="Sawab Tech Logo" style="
+        display: block;
+        margin: 0 auto 20px; /* مسافة جيدة أسفل الشعار */
+        border-radius: 50%; /* لجعل الشعار دائريًا */
+    "/>
+
+    <h2 style="
+        color: #333333; /* لون رمادي داكن جدًا للنص (قريب للأسود) */
+        font-size: 36px; /* حجم خط مناسب وواضح */
+        letter-spacing: 1.5px; /* تباعد أحرف معتدل */
+        margin-bottom: 12px;
+        font-weight: 700; /* خط سميك وواضح */
+        font-family: 'Helvetica Neue', Arial, sans-serif; /* خط كلاسيكي حديث ونظيف */
+    ">Sawab Tech</h2>
+
+    <p style="
+        color: #666666; /* لون رمادي متوسط للنص الفرعي */
+        font-size: 15px;
+        line-height: 1.6;
+        font-family: 'Roboto', Arial, sans-serif; /* خط مقروء وبسيط */
+        margin-top: 0;
+    ">
+        <a href="https://sawab.tech" target="_blank" style="
+            color: #6a0dad; /* بنفسجي غامق وهادئ للروابط (لون شعارك) */
+            text-decoration: none;
+            margin: 0 8px;
+            font-weight: 500; /* وزن خط معتدل */
+            transition: color 0.2s ease; /* تأثير سريع للون عند التفاعل */
+        " onmouseover="this.style.color='#333333'" onmouseout="this.style.color='#6a0dad'">www.sawab.tech</a>
+        <span style="color: #cccccc; font-size: 18px; vertical-align: middle;">&bull;</span> <a href="mailto:info@sawab.tech" style="
+            color: #6a0dad;
+            text-decoration: none;
+            margin: 0 8px;
+            font-weight: 500;
+            transition: color 0.2s ease;
+        " onmouseover="this.style.color='#333333'" onmouseout="this.style.color='#6a0dad'">info@sawab.tech</a>
+        <span style="color: #cccccc; font-size: 18px; vertical-align: middle;">&bull;</span>
+        <span style="
+            color: #666666;
+            margin: 0 8px;
+            font-weight: 500;
+        ">+111 22-33-444</span>
+    </p>
+</div></div>
+		</div><div id="ocean_social-1" class="footer-widget widget-oceanwp-social social-widget clr">
+				<ul class="oceanwp-social-icons no-transition style-light">
+					<li class="oceanwp-twitter"><a href="#" aria-label="X"  target="_self" ><i class=" fa-brands fa-x-twitter" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-facebook"><a href="#" aria-label="Facebook"  target="_self" ><i class=" fab fa-facebook" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-instagram"><a href="#" aria-label="Instagram"  target="_self" ><i class=" fab fa-instagram" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-pinterest"><a href="#" aria-label="Pinterest"  target="_self" ><i class=" fab fa-pinterest-p" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-youtube"><a href="#" aria-label="Youtube"  target="_self" ><i class=" fab fa-youtube" aria-hidden="true" role="img"></i></a></li>				</ul>
+
+				
+			
+		
+			</div>			</div><!-- .footer-one-box -->
+
+			
+			
+			
+			
+	</div><!-- .container -->
+
+	
+</div><!-- #footer-widgets -->
+
+
+
+<div id="footer-bottom" class="clr no-footer-nav">
+
+	
+	<div id="footer-bottom-inner" class="container clr">
+
+		
+		
+			<div id="copyright" class="clr" role="contentinfo">
+				© Copyright - Get fit with <a href="https://oceanwp.org" target="_blank">OceanWP</a>			</div><!-- #copyright -->
+
+			
+	</div><!-- #footer-bottom-inner -->
+
+	
+</div><!-- #footer-bottom -->
+
+
+	</div><!-- #footer-inner -->
+
+	
+</footer><!-- #footer -->
+
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+
+
+<div id="searchform-overlay" class="header-searchform-wrap clr" >
+	<div class="container clr">
+	<form method="get" action="https://sawab.tech/" class="header-searchform">
+			<a href="https://sawab.tech/#hsoverlay-close" class="search-overlay-close" aria-label="Close this search form"><span></span></a>
+			<span class="screen-reader-text">Search this website</span>
+			<input aria-label="Insert search query" class="searchform-overlay-input" type="search" name="s" autocomplete="off" value="" />
+			<span class="search-text">Type then hit enter to search<span aria-hidden="true"><i></i><i></i><i></i></span></span>
+								</form>
+	</div>
+</div><!-- #searchform-overlay -->
+
+
+
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>تخطي</span>
+				<# } #>
+				<i class="eicon-close"
+					aria-hidden="true"
+					title="{{{ $e.components?.get( 'document/elements' )?.utils?.getTitleForLibraryClose() }}}"></i>
+				<span class="elementor-screen-only">{{{ $e.components?.get( 'document/elements' )?.utils?.getTitleForLibraryClose() }}}</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
+		<i class="eicon-elementor"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search" aria-hidden="true"></i>
+		<input id="elementor-finder__search__input" placeholder="اكتب للبحث على أي شيء في Elementor" autocomplete="off">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">لا توجد نتائج</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}" aria-hidden="true"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+
+		<# if ( lock ) { #>
+		<div class="elementor-finder__results__item__badge"><i class="{{{ lock.badge.icon }}}"></i>{{ lock.badge.text }}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
+<script src="https://sawab.tech/wp-includes/js/hoverintent-js.min.js?ver=2.2.1" id="hoverintent-js-js"></script>
+<script id="admin-bar-js-before">
+( function() {
+				function wpforms_admin_bar_menu_init() {
+					var template = document.getElementById( 'tmpl-wpforms-admin-menubar-data' ),
+						notifications = document.getElementById( 'wp-admin-bar-wpforms-notifications' );
+
+					if ( ! template ) {
+						return;
+					}
+
+					if ( ! notifications ) {
+						var menu = document.getElementById( 'wp-admin-bar-wpforms-menu-default' );
+
+						if ( ! menu ) {
+							return;
+						}
+
+						menu.insertAdjacentHTML( 'afterBegin', template.innerHTML );
+					} else {
+						notifications.insertAdjacentHTML( 'afterend', template.innerHTML );
+					}
+				};
+				document.addEventListener( 'DOMContentLoaded', wpforms_admin_bar_menu_init );
+			}() );
+</script>
+<script src="https://sawab.tech/wp-includes/js/admin-bar.min.js?ver=6.8.1" id="admin-bar-js"></script>
+<script src="https://sawab.tech/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script src="https://sawab.tech/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script src="https://sawab.tech/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3" id="jquery-ui-draggable-js"></script>
+<script src="https://sawab.tech/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script src="https://sawab.tech/wp-includes/js/backbone.min.js?ver=1.6.0" id="backbone-js"></script>
+<script src="https://sawab.tech/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5.e1" id="backbone-marionette-js"></script>
+<script src="https://sawab.tech/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4" id="backbone-radio-js"></script>
+<script src="https://sawab.tech/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=3.29.2" id="elementor-common-modules-js"></script>
+<script id="elementor-web-cli-js-before">
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/sawab.tech\/wp-json\/","assets":"https:\/\/sawab.tech\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"2dc9261592","version":"3.29.2"};
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/sawab.tech\/wp-json\/","assets":"https:\/\/sawab.tech\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"2dc9261592","version":"3.29.2"};
+</script>
+<script src="https://sawab.tech/wp-content/plugins/elementor/assets/js/web-cli.min.js?ver=3.29.2" id="elementor-web-cli-js"></script>
+<script src="https://sawab.tech/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.4" id="elementor-dialog-js"></script>
+<script id="wp-api-request-js-extra">
+var wpApiSettings = {"root":"https:\/\/sawab.tech\/wp-json\/","nonce":"2dc9261592","versionString":"wp\/v2\/"};
+</script>
+<script src="https://sawab.tech/wp-includes/js/api-request.min.js?ver=6.8.1" id="wp-api-request-js"></script>
+<script id="elementor-dev-tools-js-before">
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/sawab.tech\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.29.2"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/sawab.tech\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.29.2"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/sawab.tech\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.29.2"}};
+</script>
+<script src="https://sawab.tech/wp-content/plugins/elementor/assets/js/dev-tools.min.js?ver=3.29.2" id="elementor-dev-tools-js"></script>
+<script src="https://sawab.tech/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="https://sawab.tech/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'rtl' ] } );
+</script>
+<script id="elementor-common-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "elementor", {"translation-revision-date":"2023-12-04 13:18:54+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));","lang":"ar"},"The file exceeds the maximum upload size for this site.":["\u0627\u0644\u0645\u0644\u0641 \u064a\u062a\u062c\u0627\u0648\u0632 \u0627\u0644\u062d\u062f \u0627\u0644\u0623\u0642\u0635\u0649 \u0644\u062d\u062c\u0645 \u0631\u0641\u0639 \u0627\u0644\u0645\u0644\u0641\u0627\u062a \u0644\u0647\u0630\u0627 \u0627\u0644\u0645\u0648\u0642\u0639."],"Got it":["\u0644\u0642\u062f \u0641\u0647\u0645\u062a\u064f \u0630\u0644\u0643"],"Enable Unfiltered File Uploads":["\u062a\u0645\u0643\u064a\u0646 \u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u0645\u0644\u0641\u0627\u062a \u0627\u0644\u062a\u064a \u0644\u0645 \u064a\u062a\u0645 \u062a\u0635\u0641\u064a\u062a\u0647\u0627. "],"Unable to connect":["\u063a\u064a\u0631 \u0642\u0627\u062f\u0631 \u0639\u0644\u0649 \u0627\u0644\u0627\u062a\u0635\u0627\u0644"],"Before you enable unfiltered files upload, note that such files include a security risk. Elementor does run a process to remove possible malicious code, but there is still risk involved when using such files.":["\u0642\u0628\u0644 \u062a\u0645\u0643\u064a\u0646 \u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u0645\u0644\u0641\u0627\u062a \u0627\u0644\u062a\u064a \u0644\u0645 \u062a\u062a\u0645 \u062a\u0635\u0641\u064a\u062a\u0647\u0627 \u060c \u0644\u0627\u062d\u0638 \u0623\u0646 \u0647\u0630\u0627 \u0627\u0644\u0646\u0648\u0639 \u0645\u0646 \u0627\u0644\u0645\u0644\u0641\u0627\u062a \u064a\u062a\u0636\u0645\u0646 \u0645\u062e\u0627\u0637\u0631 \u0623\u0645\u0646\u064a\u0629. \u064a\u0642\u0648\u0645 \u0627\u0644\u064a\u0645\u0646\u062a\u0648\u0631 \u0628\u062a\u0634\u063a\u064a\u0644 \u0639\u0645\u0644\u064a\u0629 \u0644\u0625\u0632\u0627\u0644\u0629 \u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0628\u0631\u0645\u062c\u064a\u0629 \u0636\u0627\u0631\u0629 \u0645\u062d\u062a\u0645\u0644\u0629 \u060c \u0648\u0644\u0643\u0646 \u0644\u0627 \u064a\u0632\u0627\u0644 \u0647\u0646\u0627\u0643 \u062e\u0637\u0631 \u064a\u0646\u0637\u0648\u064a \u0639\u0644\u0649 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0645\u062b\u0644 \u0647\u0630\u0647 \u0627\u0644\u0645\u0644\u0641\u0627\u062a."],"Finder":["Finder"],"Enable":["\u062a\u0641\u0639\u064a\u0644"],"Cancel":["\u0627\u0644\u063a\u0627\u0621"]}},"comment":{"reference":"assets\/js\/common.js"}} );
+</script>
+<script id="elementor-common-js-before">
+var elementorCommonConfig = {"version":"3.29.2","isRTL":true,"isDebug":false,"isElementorDebug":false,"activeModules":["ajax","finder","connect","event-tracker"],"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"nested-elements":true,"editor_v2":true,"e_element_cache":true,"home_screen":true,"launchpad-checklist":true,"cloud-library":true,"e_opt_in_v4_page":true},"allExperimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":false,"e_local_google_fonts":false,"nested-elements":true,"editor_v2":true,"pages_panel":false,"e_element_cache":true,"home_screen":true,"editor_events":false,"e_atomic_elements":false,"e_opt_in_v4":false,"e_classes":false,"e_variables":false,"launchpad-checklist":true,"cloud-library":true,"e_opt_in_v4_page":true},"urls":{"assets":"https:\/\/sawab.tech\/wp-content\/plugins\/elementor\/assets\/","rest":"https:\/\/sawab.tech\/wp-json\/"},"filesUpload":{"unfilteredFiles":false},"library_connect":{"is_connected":false,"user_id":null,"subscription_plans":{"free":{"label":null,"promotion_url":null,"color":null},"essential":{"label":"Pro","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"essential-oct2023":{"label":"Advanced","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"advanced":{"label":"Advanced","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"expert":{"label":"Expert","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"},"agency":{"label":"Agency","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"}},"base_access_level":0,"base_access_tier":"free","current_access_level":0,"current_access_tier":"free"},"ajax":{"url":"https:\/\/sawab.tech\/wp-admin\/admin-ajax.php","nonce":"b0f11a56ab"},"finder":{"data":{"edit":{"title":"\u062a\u062d\u0631\u064a\u0631","dynamic":true,"name":"edit"},"general":{"title":"\u0639\u0627\u0645","dynamic":false,"items":{"saved-templates":{"title":"\u0627\u0644\u0642\u0648\u0627\u0644\u0628 \u0627\u0644\u0645\u062d\u0641\u0648\u0637\u0629","icon":"library-save","url":"https:\/\/sawab.tech\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u0646\u0638\u0627\u0645","icon":"info-circle-o","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"\u0645\u062f\u064a\u0631 \u0627\u0644\u0635\u0644\u0627\u062d\u064a\u0627\u062a","icon":"person","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"\u0642\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0639\u0631\u0641\u0629","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"theme-builder":{"title":"\u0645\u0635\u0645\u0645 \u0627\u0644\u0642\u0648\u0627\u0644\u0628","icon":"library-save","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-app&ver=3.29.2#site-editor\/promotion","keywords":["template","header","footer","single","archive","search","404","library"]},"kit-library":{"title":"\u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u062d\u064f\u0632\u0645","icon":"kit-parts","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-app&ver=3.29.2#\/kit-library","keywords":["kit library","kit","library","site parts","parts","assets","templates"]}},"name":"general"},"create":{"title":"\u0625\u0646\u0634\u0627\u0621","dynamic":false,"items":{"wp-post":{"title":"\u0623\u0636\u0641 \u0645\u0642\u0627\u0644","icon":"plus-circle-o","url":"https:\/\/sawab.tech\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&template_type=wp-post&_wpnonce=6aece855bb","keywords":["\u0623\u0636\u0641 \u0645\u0642\u0627\u0644","post","page","template","new","create"]},"wp-page":{"title":"\u0623\u0636\u0641 \u0635\u0641\u062d\u0629","icon":"plus-circle-o","url":"https:\/\/sawab.tech\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&template_type=wp-page&_wpnonce=6aece855bb","keywords":["\u0623\u0636\u0641 \u0635\u0641\u062d\u0629","post","page","template","new","create"]},"page":{"title":"\u0623\u0636\u0641 \u0642\u0627\u0644\u0628 \u0635\u0641\u062d\u0629 \u062c\u062f\u064a\u062f","icon":"plus-circle-o","url":"https:\/\/sawab.tech\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=page&_wpnonce=6aece855bb","keywords":["\u0623\u0636\u0641 \u0642\u0627\u0644\u0628 \u0635\u0641\u062d\u0629 \u062c\u062f\u064a\u062f","post","page","template","new","create"]},"section":{"title":"\u0623\u0636\u0641 \u0642\u0633\u0645","icon":"plus-circle-o","url":"https:\/\/sawab.tech\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=section&_wpnonce=6aece855bb","keywords":["\u0623\u0636\u0641 \u0642\u0633\u0645","post","page","template","new","create"]},"container":{"title":"\u0623\u0636\u0641 Container","icon":"plus-circle-o","url":"https:\/\/sawab.tech\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=container&_wpnonce=6aece855bb","keywords":["\u0623\u0636\u0641 Container","post","page","template","new","create"]},"floating-buttons":{"title":"\u0623\u0636\u0641 Floating Element","icon":"plus-circle-o","url":"https:\/\/sawab.tech\/wp-admin\/edit.php?action=elementor_new_post&post_type=e-floating-buttons&template_type=floating-buttons&_wpnonce=6aece855bb#library","keywords":["\u0623\u0636\u0641 Floating Element","post","page","template","new","create"]},"oceanwp_library":{"title":"\u0623\u0636\u0641 Template","icon":"plus-circle-o","url":"https:\/\/sawab.tech\/wp-admin\/edit.php?action=elementor_new_post&post_type=oceanwp_library&_wpnonce=6aece855bb","keywords":["\u0623\u0636\u0641 Template","post","page","template","new","create"]}},"name":"create"},"site":{"title":"\u0627\u0644\u0645\u0648\u0642\u0639","dynamic":false,"items":{"homepage":{"title":"\u0627\u0644\u0635\u0641\u062d\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629","url":"https:\/\/sawab.tech","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"\u0644\u0648\u062d\u0629 \u0627\u0644\u062a\u062d\u0643\u0645","icon":"dashboard","url":"https:\/\/sawab.tech\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"\u0642\u0648\u0627\u0626\u0645","icon":"wordpress","url":"https:\/\/sawab.tech\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"\u0642\u0648\u0627\u0644\u0628","icon":"wordpress","url":"https:\/\/sawab.tech\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"\u0623\u062f\u0627\u0629 \u0627\u0644\u062a\u062e\u0635\u064a\u0635","icon":"wordpress","url":"https:\/\/sawab.tech\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"\u0625\u0636\u0627\u0641\u0627\u062a","icon":"wordpress","url":"https:\/\/sawab.tech\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"\u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u0648\u0646","icon":"wordpress","url":"https:\/\/sawab.tech\/wp-admin\/users.php","keywords":["users","profile","wordpress"]},"apps":{"title":"Add-ons","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-apps","icon":"apps","keywords":["apps","addon","plugin","extension","integration"]}},"name":"site"},"settings":{"title":"\u0627\u0644\u0625\u0639\u062f\u0627\u062f\u0627\u062a","dynamic":false,"items":{"general-settings":{"title":"\u0627\u0644\u0625\u0639\u062f\u0627\u062f\u0627\u062a \u0627\u0644\u0639\u0627\u0645\u0629","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-settings#tab-general","keywords":["general","settings","elementor"]},"integrations":{"title":"\u0627\u0644\u062a\u0643\u0627\u0645\u0644","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-settings#tab-integrations","keywords":["integrations","settings","elementor"]},"advanced":{"title":"\u0645\u062a\u0642\u062f\u0645","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-settings#tab-advanced","keywords":["advanced","settings","elementor"]},"performance":{"title":"Performance","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-settings#tab-performance","keywords":["performance","settings","elementor"]},"experiments":{"title":"\u0625\u062e\u062a\u0628\u0627\u0631\u0627\u062a","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-settings#tab-experiments","keywords":["settings","elementor","experiments"]},"features":{"title":"\u0627\u0644\u0645\u0632\u0627\u064a\u0627","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-settings#tab-experiments","keywords":["settings","elementor","features"]},"element-manager":{"title":"Element Manager","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-element-manager","keywords":["settings","elements","widgets","manager"]}},"name":"settings"},"tools":{"title":"\u0623\u062f\u0648\u0627\u062a","dynamic":false,"items":{"tools":{"title":"\u0623\u062f\u0648\u0627\u062a","icon":"tools","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"\u0627\u0633\u062a\u0628\u062f\u0627\u0644 \u0631\u0627\u0628\u0637 \u0627\u0644\u0645\u0648\u0642\u0639","icon":"tools","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"maintenance-mode":{"title":"\u0648\u0636\u0639 \u0627\u0644\u0635\u064a\u0627\u0646\u0629","icon":"tools","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]},"import-export":{"title":"Import Export","icon":"import-export","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-tools#tab-import-export-kit","keywords":["tools","import export","import","export","kit"]},"version-control":{"title":"\u0627\u0644\u062a\u062d\u0643\u0645 \u0641\u064a \u0627\u0644\u0646\u0633\u062e\u0629","icon":"time-line","url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]}},"name":"tools"}}},"connect":[],"event-tracker":{"isUserDataShared":false}};
+</script>
+<script src="https://sawab.tech/wp-content/plugins/elementor/assets/js/common.min.js?ver=3.29.2" id="elementor-common-js"></script>
+<script id="elementor-app-loader-js-before">
+var elementorAppConfig = {"menu_url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-app&ver=3.29.2#site-editor\/promotion","assets_url":"https:\/\/sawab.tech\/wp-content\/plugins\/elementor\/assets\/","pages_url":"https:\/\/sawab.tech\/wp-admin\/edit.php?post_type=page","return_url":"https:\/\/sawab.tech\/wp-admin\/","hasPro":false,"admin_url":"https:\/\/sawab.tech\/wp-admin\/","login_url":"https:\/\/sawab.tech\/wp-login.php","base_url":"https:\/\/sawab.tech\/wp-admin\/admin.php?page=elementor-app&ver=3.29.2","promotion":{"upgrade_url":"https:\/\/go.elementor.com\/go-pro-theme-builder\/"},"site-editor":[],"import-export":[],"kit-library":[],"onboarding":[]};
+</script>
+<script src="https://sawab.tech/wp-content/plugins/elementor/assets/js/app-loader.min.js?ver=3.29.2" id="elementor-app-loader-js"></script>
+<script src="https://sawab.tech/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script id="oceanwp-main-js-extra">
+var oceanwpLocalize = {"nonce":"fcd21c7cc6","isRTL":"1","menuSearchStyle":"overlay","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customScrollOffset":"0","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","loadMoreLoadingText":"Loading...","ajax_url":"https:\/\/sawab.tech\/wp-admin\/admin-ajax.php","oe_mc_wpnonce":"f4f6f9e576"};
+</script>
+<script src="https://sawab.tech/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=4.1.0" id="oceanwp-main-js"></script>
+<script src="https://sawab.tech/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=4.1.0" id="oceanwp-drop-down-mobile-menu-js"></script>
+<script src="https://sawab.tech/wp-content/themes/oceanwp/assets/js/overlay-search.min.js?ver=4.1.0" id="oceanwp-overlay-search-js"></script>
+<script src="https://sawab.tech/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=4.1.0" id="ow-magnific-popup-js"></script>
+<script src="https://sawab.tech/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=4.1.0" id="oceanwp-lightbox-js"></script>
+<script src="https://sawab.tech/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=4.1.0" id="ow-flickity-js"></script>
+<script src="https://sawab.tech/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=4.1.0" id="oceanwp-slider-js"></script>
+<script src="https://sawab.tech/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=4.1.0" id="oceanwp-scroll-effect-js"></script>
+<script src="https://sawab.tech/wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=4.1.0" id="oceanwp-scroll-top-js"></script>
+<script src="https://sawab.tech/wp-content/themes/oceanwp/assets/js/select.min.js?ver=4.1.0" id="oceanwp-select-js"></script>
+<script id="flickr-widget-script-js-extra">
+var flickrWidgetParams = {"widgets":[]};
+</script>
+<script src="https://sawab.tech/wp-content/plugins/ocean-extra/includes/widgets/js/flickr.min.js?ver=6.8.1" id="flickr-widget-script-js"></script>
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 7.2 on 2025-07-03 15:01:43 -->
